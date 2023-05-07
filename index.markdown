@@ -3,9 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: about
-title: Lukas Lehner
+title: Rocco Zizzamia
 ---
 
 ### Hi,
 
-I am Rocco
+I am Rocco Zizzamia. This website is under construction. Please check back later!
