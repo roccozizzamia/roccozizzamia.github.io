@@ -5,11 +5,10 @@ menu: main
 permalink: /workinprogress/
 ---
 
-### Work in Progress
 <p> </p>
 
 **Improved Early Action through Precise Targeting, Timely Cash, and Early Warning to Mitigate the Impacts of Climate Shocks** \
-Grants: [J-PAL King Climate Action Initiative]{https://www.povertyactionlab.org/initiative-project/improved-early-action-through-precise-targeting-timely-cash-and-early-warning}{:target="_blank"} ($250,000) \
+Grants: [J-PAL King Climate Action Initiative](https://www.povertyactionlab.org/initiative-project/improved-early-action-through-precise-targeting-timely-cash-and-early-warning){:target="_blank"} ($250,000) \
 (with Stefan Dercon, Rohini Kamal, and Ashley Pople) 
 <details>
   <summary>Details</summary>
