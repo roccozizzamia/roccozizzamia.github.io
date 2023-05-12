@@ -72,7 +72,7 @@ The development path of Sub-Saharan Africa (SSA) over the past two decades has b
 <p> </p>
 
 
-**[s employment a panacea for poverty: A mixed-methods investigation into employment
+**[Is employment a panacea for poverty: A mixed-methods investigation into employment
 decisions in South Africa](https://www.sciencedirect.com/science/article/abs/pii/S0305750X20300644){:target="_blank"}** *World Development*,
 Volume 130, 2020\
 <details>
