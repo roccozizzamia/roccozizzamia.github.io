@@ -16,6 +16,36 @@ The project evaluates a targeted risk-informed early action pilot in response to
 </details>
 <p> </p>
 
+**Rejection sensitivity and on-the-job search: A lab-in-the-field experiment in South Africa** \
+<details>
+  <summary>Details</summary>
+I investigate the effect that experiencing repeated rejection has on on-the-job search. Using a lab-in-the-field experiment implemented with young workers in South Africa, I repeatedly ask subjects to choose between a high-return activity with frequent exposure to rejection signals and a lower-return activity with less frequent exposure to rejection signals. I ask whether subjects take costly action to avoid exposure to information on rejection by choosing the lower-return, lower-rejection activity. To do so, I experimentally vary both the rewards and the amount of rejection that subjects experience when choosing between the two tasks, holding other salient drivers of search behaviour constant, including eliminating the ability of players to learn about returns to search through experiencing rejection. I find that when exposed to (more frequent) rejection, subjects choose to trade-off expected earnings in order to avoid receiving rejection signals. I interpret these results as an example of active information avoidance.
+</details>
+<p> </p>
+
+**A push which is less big but just as good? Experimental evidence on the role of coaching within bundled ultra-poor graduation programmes** \
+(with Narayan Das, Stefan Dercon, Maliha Noshin Khan, and Ashley Pople)
+<details>
+  <summary>Details</summary>
+We investigate the role that coaching plays within ultra-poor graduation programmes -- specifically, how sensitive the welfare benefits of graduation interventions are to the intensity and the type of coaching inputs. We do so through a multi-arm field experiment implemented in Bangladesh in 2016, in which experimental variation was built into the amount of coaching (weekly vs fortnightly) and type of coaching (individual vs individual and group-based) that recipients received. We measure six-year impacts through an endline survey conducted in 2022, following the COVID-19 pandemic shock. While the programme itself does lead to large and sustained impacts on household asset holdings, earnings, land holdings, and hours worked in high-productivity activities, variation in coaching plays no discernible role in explaining the variation we observe in these outcomes. Reducing the intensity of coaching within ultra-poor graduation programmes could be an effective tool in bringing such programmes to scale.
+</details>
+<p> </p>
+
+
+**A push which is less big but just as good? Experimental evidence on the role of coaching within bundled ultra-poor graduation programmes** \
+(with Narayan Das, Stefan Dercon, Maliha Noshin Khan, and Ashley Pople)
+<details>
+  <summary>Details</summary>
+We investigate the role that coaching plays within ultra-poor graduation programmes -- specifically, how sensitive the welfare benefits of graduation interventions are to the intensity and the type of coaching inputs. We do so through a multi-arm field experiment implemented in Bangladesh in 2016, in which experimental variation was built into the amount of coaching (weekly vs fortnightly) and type of coaching (individual vs individual and group-based) that recipients received. We measure six-year impacts through an endline survey conducted in 2022, following the COVID-19 pandemic shock. While the programme itself does lead to large and sustained impacts on household asset holdings, earnings, land holdings, and hours worked in high-productivity activities, variation in coaching plays no discernible role in explaining the variation we observe in these outcomes. Reducing the intensity of coaching within ultra-poor graduation programmes could be an effective tool in bringing such programmes to scale.
+</details>
+<p> </p>
+
+**The effects of informal institutions on social and economic outcomes: Experimental evidence from Bangladesh** \
+(with Jay Garg, Narayan Das, Stefan Dercon, Maliha Noshin Khan, and Ashley Pople)
+
+<p> </p>
+
+
 
 <hr style="border:.25px solid grey">
 
