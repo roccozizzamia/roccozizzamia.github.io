@@ -8,6 +8,7 @@ title: Rocco Zizzamia
 
 ### Hi,
 
-I am a post-doctoral researcher at the [Center for the Study of African Economies](https://www.csae.ox.ac.uk/){:target="_blank"} in the [Department of Economics](https://www.economics.ox.ac.uk/){:target="_blank"} and at the [Oxford Martin School](https://www.oxfordmartin.ox.ac.uk/){:target="_blank"}, at the University of Oxford. 
+I am a post-doctoral researcher at the [Center for the Study of African Economies](https://www.csae.ox.ac.uk/){:target="_blank"} in the [Department of Economics](https://www.economics.ox.ac.uk/){:target="_blank"} and at the [Oxford Martin School](https://www.oxfordmartin.ox.ac.uk/){:target="_blank"}, at the University of Oxford. I am attached to [Somerville College]{https://www.some.ox.ac.uk/} as a Fulford Non-Stipendiary Junior Research Fellow (2023-2025).
 
 My research focuses on social protection and labour markets. In my current work, I am using experimental methods to study the potential to leverage innovations in the design and delivery of social protection systems to increase household resilience to poverty and to extreme climate events such as floods and droughts. In the past, I have researched labour markets, inequality, poverty alleviation, poverty dynamics, and social stratification, using a variety of methods, including longitudinal surveys, field experiments, qualitative studies, and behavioural lab experiments. 
+

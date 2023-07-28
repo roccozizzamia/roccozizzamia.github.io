@@ -1,4 +1,5 @@
 GEM
+  gem "academic"
   remote: https://rubygems.org/
   specs:
     academic (0.5.8)
