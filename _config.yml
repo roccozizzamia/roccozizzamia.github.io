@@ -36,8 +36,8 @@ nav_ext_links:
     url: https://roccozizzamia.github.io/assets/rocco-zizzamia-cv.pdf
 
 # Build settings
- theme: academic
-#remote_theme: gaalcaras/academic
+# theme: academic
+remote_theme: gaalcaras/academic
 plugins:
   - jekyll-feed
 
