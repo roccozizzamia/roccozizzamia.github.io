@@ -5,10 +5,11 @@ menu: main
 permalink: /research/
 ---
 
-### Selected working Papers
+### Journal Publications
 <p> </p>
 
-**[The labor market and poverty impacts of covid-19 in South Africa](https://www.opensaldru.uct.ac.za/handle/11090/980){:target="_blank"}** SALDRU Working Paper 264 \
+
+**[The labor market and poverty impacts of covid-19 in South Africa](https://www.opensaldru.uct.ac.za/handle/11090/980){:target="_blank"}*South African Journal of Economics*, Forthcoming \
 (joint with Ihsaan Bassier, Joshua Budlender, and Ronak Jain) 
 <details>
   <summary>Abstract</summary>
@@ -16,24 +17,6 @@ We use newly-released South African data to present the first estimates of COVID
 </details>
 <p> </p>
 
-**[Earnings inequality over the life-course in South Africa. ](https://www.afd.fr/en/ressources/earnings-inequality-south-africa){:target="_blank"}** AFD Research Paper 160 \
-(joint with Vimal Ranchhod) 
-<details>
-  <summary>Abstract</summary>
-Earnings inequality is usually calculated from a distribution which is measured at a point in time.  However, because  we  typically  observe  a  positive  age-earnings  profile, a part of cross-sectional inequality is explained by age-related differences in earnings across age cohorts. When inequality is computed using earnings measured over the lifetime, these age-specific differences are averaged out. However, there are also factors that may drive up inequality in earnings measured over time relative to cross-sectional inequality – for instance, low cross-sectional earnings are likely to be correlated with low wage growth and longer spells of unemployment, thereby compounding inequality. Using South African data, we investigate how these dynamic processes act simultaneously but over different time scales to both moderate and exacerbate inequality over time. Because the available panel data in South Africa spans only nine years, straightforwardly constructing a measure of lifetime earnings is not possible.  We circumnavigate  this  challenge  by  constructing  a  synthetic lifetime panel by stitching together relevantly similar individuals across successive age cohorts.  We use this synthetic panel to compute inequality of lifetime earnings and compare this to inequality of earnings measured over the medium-term (2-9 years), and to inequality measured at a point in time.  We find that inequality of lifetime earnings, which reflects the effect of the age/earning relationship, is lower than inequality of contemporaneous earnings. However, inequality of earnings measured over two to nine years, which is more sensitive to inequalities in short-term employment dynamics, is substantially higher than point-in-time estimates.
-</details>
-<p> </p>
-
-
-
-
-
-
-<hr style="border:.25px solid grey">
-
-
-### Journal Publications
-<p> </p>
 
 **[A poverty dynamics approach to social stratification: The South African Case](https://www.sciencedirect.com/science/article/pii/S0305750X18301724){:target="_blank"}** *World Development*,
 Volume 110 \
@@ -86,7 +69,7 @@ The development path of Sub-Saharan Africa (SSA) over the past two decades has b
 
 **[Is employment a panacea for poverty: A mixed-methods investigation into employment
 decisions in South Africa](https://www.sciencedirect.com/science/article/abs/pii/S0305750X20300644){:target="_blank"}** *World Development*,
-Volume 130, 2020\
+Volume 130, 2020 \
 <details>
   <summary>Abstract</summary>
 Unemployment is a key determinant of poverty in South Africa and labour market inequalities reflect deep-rooted socio-economic inequalities. In a context of high rates of poverty and unemployment, we would expect a job loss to be associated with a decline in wellbeing. Using nationally representative panel data and original qualitative data collected in Cape Town, I find that, on average, this hypothesis holds. However, this aggregate effect conceals heterogeneities in the relationship between labour market transitions and wellbeing which are of special analytic interest. In particular, this study focusses on those cases which go against the grain of the overall labour market-wellbeing nexus – that is, cases in which black, urban youths turn down or quit wage work. An analysis of these examples helps illuminate how disadvantaged workers face non-negligible disincentives to certain forms of low-skill employment and reveals the circumstances under which these disincentives may outweigh the disincentives to unemployment. To aid this investigation, I develop a model which analyses the welfare effect of job losses as being jointly determined by the strength of outside options and disincentives to work. Using qualitative data, I provide evidence in support of this model and show that, under certain circumstances, transitioning out of employment will be the welfare optimising choice for workers: Younger workers with no dependants and with alternative sources of support can be said to have stronger outside options, and are especially likely to turn down or quit low-quality jobs. Older workers, with dependants and without alternative sources of support, are more likely to accept and persist in low-quality jobs. This study argues that understanding the complexity of the incentives that workers face and which inform labour market choices will be indispensable in effectively designing policies which aim to reduce inequalities in labour markets – in South Africa and beyond.
@@ -106,3 +89,23 @@ Unemployment is a key determinant of poverty in South Africa and labour market i
 edited by M.S. Smith. Jacana Media \
 (joint with Simone Schotte and Murray Leibbrandt) 
 <p> </p>
+
+
+<hr style="border:.25px solid grey">
+
+
+
+### Selected working Papers
+<p> </p>
+
+
+**[Earnings inequality over the life-course in South Africa. ](https://www.afd.fr/en/ressources/earnings-inequality-south-africa){:target="_blank"}** AFD Research Paper 160 \
+(joint with Vimal Ranchhod) 
+<details>
+  <summary>Abstract</summary>
+Earnings inequality is usually calculated from a distribution which is measured at a point in time.  However, because  we  typically  observe  a  positive  age-earnings  profile, a part of cross-sectional inequality is explained by age-related differences in earnings across age cohorts. When inequality is computed using earnings measured over the lifetime, these age-specific differences are averaged out. However, there are also factors that may drive up inequality in earnings measured over time relative to cross-sectional inequality – for instance, low cross-sectional earnings are likely to be correlated with low wage growth and longer spells of unemployment, thereby compounding inequality. Using South African data, we investigate how these dynamic processes act simultaneously but over different time scales to both moderate and exacerbate inequality over time. Because the available panel data in South Africa spans only nine years, straightforwardly constructing a measure of lifetime earnings is not possible.  We circumnavigate  this  challenge  by  constructing  a  synthetic lifetime panel by stitching together relevantly similar individuals across successive age cohorts.  We use this synthetic panel to compute inequality of lifetime earnings and compare this to inequality of earnings measured over the medium-term (2-9 years), and to inequality measured at a point in time.  We find that inequality of lifetime earnings, which reflects the effect of the age/earning relationship, is lower than inequality of contemporaneous earnings. However, inequality of earnings measured over two to nine years, which is more sensitive to inequalities in short-term employment dynamics, is substantially higher than point-in-time estimates.
+</details>
+<p> </p>
+
+
+
