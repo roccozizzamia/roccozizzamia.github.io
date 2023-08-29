@@ -8,7 +8,7 @@ permalink: /workinprogress/
 <p> </p>
 
 **Improved Early Action through Precise Targeting, Timely Cash, and Early Warning to Mitigate the Impacts of Climate Shocks** \
-Grants: [J-PAL King Climate Action Initiative](https://www.povertyactionlab.org/initiative-project/improved-early-action-through-precise-targeting-timely-cash-and-early-warning){:target="_blank"} ($250,000) \
+Grants: [J-PAL King Climate Action Initiative](https://www.povertyactionlab.org/initiative-project/improved-early-action-through-precise-targeting-timely-cash-and-early-warning){:target="_blank"} \
 (with Stefan Dercon, Rohini Kamal, and Ashley Pople) 
 <details>
   <summary>Details</summary>
@@ -38,7 +38,15 @@ We investigate the role that coaching plays within ultra-poor graduation program
 
 <p> </p>
 
+**The effect of timely cash transfers during an extreme flood shock: Evidence from the 2022 Pakistan Floods** \
+(with Ashley Pople and Nihan Rafique)
+
+<p> </p>
+
+**The effect of anticipatory action in the context of flood shocks in Somalia** \
+(with Ashley Pople, Michael Green, Lilly Schofield and Laura Swift)
+
+<p> </p>
 
 
 <hr style="border:.25px solid grey">
-
