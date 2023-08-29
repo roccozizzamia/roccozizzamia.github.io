@@ -9,7 +9,8 @@ permalink: /research/
 <p> </p>
 
 
-**[The labor market and poverty impacts of covid-19 in South Africa](https://www.opensaldru.uct.ac.za/handle/11090/980){:target="_blank"}** *South African Journal of Economics*, Forthcoming \
+**[The labor market and poverty impacts of covid-19 in South Africa](https://www.opensaldru.uct.ac.za/handle/11090/980){:target="_blank"}** *South African Journal of Economics*, 
+Forthcoming \
 (joint with Ihsaan Bassier, Joshua Budlender, and Ronak Jain) 
 <details>
   <summary>Abstract</summary>
