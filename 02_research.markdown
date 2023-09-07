@@ -9,8 +9,8 @@ permalink: /research/
 <p> </p>
 
 
-**[The labor market and poverty impacts of covid-19 in South Africa](https://www.opensaldru.uct.ac.za/handle/11090/980){:target="_blank"}** *South African Journal of Economics*, 
-Forthcoming \
+**[The labor market and poverty impacts of covid-19 in South Africa](https://onlinelibrary.wiley.com/doi/10.1111/saje.12356){:target="_blank"}** *South African Journal of Economics*, 
+(2023) \
 (joint with Ihsaan Bassier, Joshua Budlender, and Ronak Jain) 
 <details>
   <summary>Abstract</summary>
@@ -20,7 +20,7 @@ We use newly-released South African data to present the first estimates of COVID
 
 
 **[A poverty dynamics approach to social stratification: The South African Case](https://www.sciencedirect.com/science/article/pii/S0305750X18301724){:target="_blank"}** *World Development*,
-Volume 110 \
+Volume 110 (2018) \
 (joint with Simone Schotte and Murray Leibbrandt) 
 <details>
   <summary>Abstract</summary>
