@@ -34,17 +34,17 @@ We investigate the role that coaching plays within ultra-poor graduation program
 
 
 **4. The effects of informal institutions on social and economic outcomes: Experimental evidence from Bangladesh** \
-(with Jay Garg, Narayan Das, Stefan Dercon, and Ashley Pople)
+(with Jay Garg, Narayan Das, Stefan Dercon, and Ashley Pople) \
 [AEA Trial Registry](https://www.socialscienceregistry.org/trials/9709)
 <p> </p>
 
 **5. The effect of timely cash transfers during an extreme flood shock: Evidence from the 2022 Pakistan Floods** \
-(with Ashley Pople, Muhammad Bin Khalid and Nihan Rafique)
+(with Ashley Pople, Muhammad Bin Khalid and Nihan Rafique) \
 [AEA Trial Registry](https://www.socialscienceregistry.org/trials/12147){:target="_blank"}
 <p> </p>
 
 **6. The effect of anticipatory action in the context of flood shocks in Somalia** \
-(with Ashley Pople, Michael Green, Lilly Schofield and Laura Swift)
+(with Ashley Pople, Michael Green, Lilly Schofield and Laura Swift) \
 [AEA Trial Registry](https://www.socialscienceregistry.org/trials/12138){:target="_blank"}
 <p> </p>
 
