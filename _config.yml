@@ -24,8 +24,8 @@ author:
   avatar           : "RZphoto.jpg"
   name             : "Rocco Zizzamia"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : #"Short biography for the left-hand sidebar"
+  location         : #"Earth"
   employer         : "University of Oxford"
   uri              : # URL
   email            : "rocco.zizzamia@economics.ox.ac.uk" 
