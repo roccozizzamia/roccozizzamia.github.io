@@ -1,0 +1,13 @@
+---
+title: "Locked down and locked out: Repurposing social assistance as emergency relief to informal workers"
+collection: publications
+category: manuscripts
+#permalink: /publication/2021-01-01-locked-down-locked-out-social-assistance
+excerpt: '(with Ihsaan Bassier, Joshua Budlender, Murray Leibbrandt, and Vimal Ranchhod)'
+date: 2021-01-01
+venue: 'World Development, Volume 139'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0305750X20303983'
+citation: 'Ihsaan Bassier, Joshua Budlender, Murray Leibbrandt, Vimal Ranchhod, and Rocco Zizzamia. (2021). "Locked down and locked out: Repurposing social assistance as emergency relief to informal workers." <i>World Development</i>, Volume 139.'
+---
+
+The COVID-19 pandemic presents a particular challenge to countries with high levels of labour market informality. Informal workers and their households are especially vulnerable to the negative economic consequences of the pandemic and associated lockdown measures, while the very fact of their informality makes it difficult for governments to quickly provide targeted economic relief. Using South Africa as a case study, we examine how an established social assistance system – not originally designed to support informal workers – can be re-purposed to provide emergency relief to these workers and their households. We examine how expansions of this system on the intensive margin (increasing the value of existing social grants) and extensive margin (introducing a new feasibly-implemented grant) can be used to mitigate this COVID-19-associated poverty. We compare the efficacy of the different policies by using pre-pandemic nationally representative household survey data to project how a negative shock to informal incomes can be mitigated by the different social grant measures, with a particular emphasis on poverty impacts. We find that an intensive-margin expansion of the existing Child Support Grant is complementary to the extensive-margin introduction of a new Special COVID-19 Grant, and that this combined policy intervention performs best out of the options considered. However, conclusions as to this “optimal policy” are not simple technical determinations. We show that these conclusions are in fact sensitive to both unavoidable technical assumptions about how resources are consumed and shared within the household, as well as to normative value judgments about which populations to prioritise and how to value poverty reduction spillovers amongst the non-targeted group. While our approach helps identify a range of sensible policy approaches, there is no escaping the limits to our knowledge or the issue of normative goals – a finding likely applicable to a broad range of empirical policy analyses.

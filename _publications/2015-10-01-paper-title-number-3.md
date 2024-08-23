@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "The livelihood impacts of COVID-19 in urban South Africa: A view from below"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+#permalink: /publication/2023-01-01-livelihood-impacts-covid-19-south-africa
+excerpt: '(with Simone Schotte)'
+date: 2023-01-01
+venue: 'Social Indicators Research, Volume 165, 1–30'
+paperurl: 'https://link.springer.com/article/10.1007/s11205-022-02978-7'
+citation: 'Simone Schotte and Rocco Zizzamia. (2023). "The livelihood impacts of COVID-19 in urban South Africa: A view from below." <i>Social Indicators Research</i>, Volume 165, 1–30.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper investigates the impact of the COVID-19 pandemic and related policy measures on livelihoods in urban South Africa. Using qualitative research methods, we analyse two rounds of semi-structured phone interviews, conducted between June and September 2020 in the township of Khayelitsha, Cape Town. We contextualise these by presenting a snapshot of the nationwide dynamics using quantitative panel data. Our findings describe how the shock of the COVID-19 pandemic has deepened the economic vulnerability which preceded the crisis. Survivalist livelihood strategies were undermined by the economic disruption to the informal sector, while the co-variate nature of the shock rendered social networks and informal insurance mechanisms ineffective, causing households to liquidate savings, default on insurance payments, and deepen their reliance on government grants. In addition, the impact of the pandemic on schooling may deepen existing inequalities and constrain future upward mobility.
