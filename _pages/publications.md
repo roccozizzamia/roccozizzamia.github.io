@@ -12,9 +12,9 @@ author_profile: true
 with Ihsaan Bassier, Joshua Budlender, and Ronak Jain \
 *South African Journal of Economics,* 2023 (Vol. 91, Issue 4) \
 <small>
-[[Wave 1 working paper](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cramsurvey.org/wp-content/uploads/2020/07/Jain-The-labour-market-and-poverty-impacts.pdf) | [Code](/files/w1.zip) | [Op-Ed](https://www.businesslive.co.za/fm/features/2020-07-15-distress-grant-misses-the-mark/)] \
-[[Wave 2 working paper](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cramsurvey.org/wp-content/uploads/2020/09/8-Jain-R.-Bassier-I.-Budlender-J.-_-Zizzamia-R.-2020-The-labour-market-and-poverty-impacts-of-COVID-19-in-South-Africa-An-update-with-NIDS-CRAM-Wave-2.pdf) | [Code](/files/w2.zip) | [Op-Ed](https://www.dailymaverick.co.za/article/2020-09-30-covid-19-job-losses-persist-but-grants-cushion-the-blow/)] \
-[[Wave 3 working paper](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cramsurvey.org/wp-content/uploads/2021/02/2.-Bassier-I.-Budlender-J.-Zizzamia-R.-2021-The-labour-market-impact-of-COVID-19-.pdf) | [Code](/files/w3.zip)] \
+[[Wave 1 working paper](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cramsurvey.org/wp-content/uploads/2020/07/Jain-The-labour-market-and-poverty-impacts.pdf) | [Code](/files/w1.zip) | [Op-Ed](https://www.businesslive.co.za/fm/features/2020-07-15-distress-grant-misses-the-mark/)]  
+[[Wave 2 working paper](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cramsurvey.org/wp-content/uploads/2020/09/8-Jain-R.-Bassier-I.-Budlender-J.-_-Zizzamia-R.-2020-The-labour-market-and-poverty-impacts-of-COVID-19-in-South-Africa-An-update-with-NIDS-CRAM-Wave-2.pdf) | [Code](/files/w2.zip) | [Op-Ed](https://www.dailymaverick.co.za/article/2020-09-30-covid-19-job-losses-persist-but-grants-cushion-the-blow/)]   
+[[Wave 3 working paper](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cramsurvey.org/wp-content/uploads/2021/02/2.-Bassier-I.-Budlender-J.-Zizzamia-R.-2021-The-labour-market-impact-of-COVID-19-.pdf) | [Code](/files/w3.zip)]   
 Media: [The Economist](https://www.economist.com/middle-east-and-africa/2020/07/18/covid-19-has-throttled-south-africas-economy), [Mail and Guardian](https://mg.co.za/news/2020-07-15-three-million-jobs-lost-and-hunger-surging-amid-covid-19-crisis-survey/)
 </small>
 <details>
@@ -26,9 +26,9 @@ We estimate COVID-19-related employment and poverty impacts in South Africa. We 
 <br>
 
 <p> </p>
-[**The livelihood impacts of COVID-19 in urban South Africa: A view from below**](https://link.springer.com/article/10.1007/s11205-022-02978-7) \
+[**The livelihood impacts of COVID-19 in urban South Africa: A view from below**](https://link.springer.com/article/10.1007/s11205-022-02978-7)   
 with Simone Schotte \
-*Social Indicators Research,* 2023 (Vol. 165) \
+*Social Indicators Research,* 2023 (Vol. 165)   
 <small>Media: [News24](https://www.news24.com/News24/opinion-covid-19-lays-bare-cape-towns-social-divide-deepens-underlying-inequalities-20210327)</small>
 <details>
   <summary>Abstract</summary>
@@ -37,10 +37,10 @@ This paper investigates the impact of the COVID-19 pandemic and related policy m
 <p> </p>
 
 <br>
-[**Snakes and Ladders and Loaded Dice: Poverty Dynamics and Inequality in South Africa**](https://onlinelibrary.wiley.com/doi/full/10.1111/saje.12308) \
-with Simone Schotte and Murray Leibbrandt \
-*South African Journal of Economics*, 2022 (Vol. 90, Issue 2) \
-<small>Media: The Economist [[1](https://www.economist.com/middle-east-and-africa/2024/05/02/how-south-africa-has-changed-30-years-after-apartheid), [2](https://www.economist.com/middle-east-and-africa/2021/01/07/south-africas-black-middle-class-has-prospered-under-democracy)]</small> \
+[**Snakes and Ladders and Loaded Dice: Poverty Dynamics and Inequality in South Africa**](https://onlinelibrary.wiley.com/doi/full/10.1111/saje.12308)   
+with Simone Schotte and Murray Leibbrandt   
+*South African Journal of Economics*, 2022 (Vol. 90, Issue 2)   
+<small>Media: The Economist [[1](https://www.economist.com/middle-east-and-africa/2024/05/02/how-south-africa-has-changed-30-years-after-apartheid), [2](https://www.economist.com/middle-east-and-africa/2021/01/07/south-africas-black-middle-class-has-prospered-under-democracy)]</small>   
 <details>
   <summary>Abstract</summary>
 This paper uses five waves of panel data to empirically assess the extent and dynamics of poverty in South Africa between 2008 and 2017. Longitudinal surveys allow us to understand how markers of (dis)advantage determine present material welfare and economic upward or downward mobility over time. Investigating the correlates of poverty entries and exits, we analyse how multidimensional inequalities in terms of household- and individual-level characteristics relate to these dynamics and identify markers of vulnerability. We utilise these markers to classify the South African population into five strata characterised by their present and future risk to poverty.
@@ -49,9 +49,9 @@ This paper uses five waves of panel data to empirically assess the extent and dy
 
 
 <br>
-[**Are We Really Painting the Devil on the Walls? Polarization and its Drivers in Sub-Saharan Africa in the Past Two Decades**](https://academic.oup.com/jae/article-abstract/31/2/124/6263487) \
-with Vasco Molini, Michele Fabiani, and Fabio Clementi \
-*Journal of African Economies*, 2022 (Vol. 31, Issue 2) \
+[**Are We Really Painting the Devil on the Walls? Polarization and its Drivers in Sub-Saharan Africa in the Past Two Decades**](https://academic.oup.com/jae/article-abstract/31/2/124/6263487)   
+with Vasco Molini, Michele Fabiani, and Fabio Clementi   
+*Journal of African Economies*, 2022 (Vol. 31, Issue 2)   
 <details>
   <summary>Abstract</summary>
 The development path of Sub-Saharan Africa (SSA) over the past two decades has been characterized by sluggish poverty reduction occurring alongside robust economic growth. Applying polarization measures to comparable survey data from 24 SSA countries, we find that there has been a generalizable increase in polarization over the past two decades—and in particular, an increased concentration of households in the lower tail of the welfare distribution of SSA countries. The polarization process is further analyzed by identifying the main drivers and singling out the effect of different covariates at different points in the consumption distribution. This investigation reveals that the drivers of polarization are relatively similar across SSA: demographic, urban/rural, regional variables and access to basic infrastructure are found to be the most important drivers of polarization in many countries.
@@ -61,9 +61,9 @@ The development path of Sub-Saharan Africa (SSA) over the past two decades has b
 <br>
 
 <p> </p>
-[**Locked down and locked out: Repurposing social assistance as emergency relief to informal workers**](https://www.sciencedirect.com/science/article/pii/S0305750X20303983?via%3Dihub) \
-with Ihsaan Bassier, Joshua Budlender, Murray Leibbrandt and Vimal Ranchhod \
-*World Development,* 2021 (Vol. 139) \
+[**Locked down and locked out: Repurposing social assistance as emergency relief to informal workers**](https://www.sciencedirect.com/science/article/pii/S0305750X20303983?via%3Dihub)   
+with Ihsaan Bassier, Joshua Budlender, Murray Leibbrandt and Vimal Ranchhod   
+*World Development,* 2021 (Vol. 139)   
 <small>
 [[Policy report](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://covid19economicideas.org/wp-content/uploads/2020/04/Special-Covid-19-Grant-Proposal-full-version-17-April-2020.pdf) | [Code](/files/ReplicationPackage.zip) | [Podcast](https://www.csae.ox.ac.uk/locked-down-and-locked-out-repurposing-social-assistance-in-south-africa) | [Op-ed](https://theconversation.com/south-africa-can-and-should-top-up-child-support-grants-to-avoid-a-humanitarian-crisis-135222)] \
 Media: [Financial Times](https://www.ft.com/content/85ad034e-146d-4e8f-a3ad-f8d237346d6d)
@@ -80,8 +80,8 @@ The COVID-19 pandemic presents a particular challenge to countries with high lev
 
 
 <br>
-[**Is employment a panacea for poverty: A mixed-methods investigation into employment decisions in South Africa**](https://www.sciencedirect.com/science/article/abs/pii/S0305750X20300644) \
-*World Development*, 2020 (Vol. 130) \
+[**Is employment a panacea for poverty: A mixed-methods investigation into employment decisions in South Africa**](https://www.sciencedirect.com/science/article/abs/pii/S0305750X20300644)   
+*World Development*, 2020 (Vol. 130)   
 <small> Earlier version awarded the Papiya Ghosh Memorial Prize for the best MPhil Thesis in Development Studies at Oxford University </small>
 <details>
   <summary>Abstract</summary>
@@ -95,9 +95,9 @@ Unemployment is a key determinant of poverty in South Africa and labour market i
 
 
 <br>
-[**A poverty dynamics approach to social stratification: The South African Case**](https://www.sciencedirect.com/science/article/pii/S0305750X18301724) \
-with Simone Schotte and Murray Leibbrandt \
-*World Development*, 2018 (Vol. 1, Issue 2) \
+[**A poverty dynamics approach to social stratification: The South African Case**](https://www.sciencedirect.com/science/article/pii/S0305750X18301724)   
+with Simone Schotte and Murray Leibbrandt   
+*World Development*, 2018 (Vol. 1, Issue 2)   
 <small>Media: [The Economist](https://www.economist.com/special-report/2019/04/25/cyril-ramaphosa-faces-a-daunting-task-if-he-wins-south-africas-election)</small>
 <details>
   <summary>Abstract</summary>
