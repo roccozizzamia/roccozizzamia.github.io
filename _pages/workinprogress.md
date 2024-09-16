@@ -7,7 +7,7 @@ author_profile: true
 
 
 <p> </p>
-**1. Improved Early Action through Precise Targeting, Timely Cash, and Early Warning to Mitigate the Impacts of Climate Shocks** \
+**Improved Early Action through Precise Targeting, Timely Cash, and Early Warning to Mitigate the Impacts of Climate Shocks** \
 Grants: [J-PAL King Climate Action Initiative](https://www.povertyactionlab.org/initiative-project/improved-early-action-through-precise-targeting-timely-cash-and-early-warning){:target="_blank"} \
 (with Stefan Dercon, Rohini Kamal, [Ashley Pople](https://www.ashleypople.com/){:target="_blank"} and Hannah Timmis) 
 <details>
@@ -18,7 +18,7 @@ The project evaluates a targeted risk-informed early action pilot in response to
 
 <br>
 
-**2. Rejection sensitivity and on-the-job search: A lab-in-the-field experiment in South Africa** \
+**Rejection sensitivity and on-the-job search: A lab-in-the-field experiment in South Africa** \
 [AEA Trial Registry](https://www.socialscienceregistry.org/trials/9802){:target="_blank"}
 <details>
   <summary>Details</summary>
@@ -28,7 +28,7 @@ I investigate the effect that experiencing repeated rejection has on on-the-job 
 
 <br>
 
-**3. A push which is less big but just as good? Experimental evidence on the role of coaching within bundled ultra-poor graduation programmes** \
+**A push which is less big but just as good? Experimental evidence on the role of coaching within bundled ultra-poor graduation programmes** \
 (with Narayan Das, Stefan Dercon, Maliha Noshin Khan, and Ashley Pople) \
 [AEA Trial Registry](https://www.socialscienceregistry.org/trials/9618){:target="_blank"}
 <details>
@@ -39,19 +39,19 @@ We investigate the role that coaching plays within ultra-poor graduation program
 
 <br>
 
-**4. The effects of informal institutions on social and economic outcomes: Experimental evidence from Bangladesh** \
+**The effects of informal institutions on social and economic outcomes: Experimental evidence from Bangladesh** \
 (with Jay Garg, Narayan Das, Stefan Dercon, and Ashley Pople) \
 [AEA Trial Registry](https://www.socialscienceregistry.org/trials/9709)
 <p> </p>
 <br>
 
-**5. The effect of timely cash transfers during an extreme flood shock: Evidence from the 2022 Pakistan Floods** \
+**The effect of timely cash transfers during an extreme flood shock: Evidence from the 2022 Pakistan Floods** \
 (with Ashley Pople, Muhammad Bin Khalid and Nihan Rafique) \
 [AEA Trial Registry](https://www.socialscienceregistry.org/trials/12147){:target="_blank"}
 <p> </p>
 <br>
 
-**6. The effect of anticipatory action in the context of flood shocks in Somalia** \
+**The effect of anticipatory action in the context of flood shocks in Somalia** \
 (with Ashley Pople, Michael Green, Lilly Schofield and Laura Swift) \
 [AEA Trial Registry](https://www.socialscienceregistry.org/trials/12138){:target="_blank"}
 <p> </p>
