@@ -7,9 +7,9 @@ author_profile: true
 
 
 <p> </p>
-**Improved Early Action through Precise Targeting, Timely Cash, and Early Warning to Mitigate the Impacts of Climate Shocks** \
-(with Stefan Dercon, Rohini Kamal, Prabhmeet Kaur Matta, [Ashley Pople](https://www.ashleypople.com/), Munshi Sulaiman and Hannah Timmis) \
-Grants: [J-PAL King Climate Action Initiative](https://www.povertyactionlab.org/initiative-project/improved-early-action-through-precise-targeting-timely-cash-and-early-warning) & Weiss Asset Management Foundation \
+**Improved Early Action through Precise Targeting, Timely Cash, and Early Warning to Mitigate the Impacts of Climate Shocks**   
+(with Stefan Dercon, Rohini Kamal, Prabhmeet Kaur Matta, [Ashley Pople](https://www.ashleypople.com/), Munshi Sulaiman and Hannah Timmis)   
+Grants: [J-PAL King Climate Action Initiative](https://www.povertyactionlab.org/initiative-project/improved-early-action-through-precise-targeting-timely-cash-and-early-warning) & Weiss Asset Management Foundation   
 Survey instruments: [BL](/_pages/_assets/AA_BL.pdf)
 <details>
   <summary>Details</summary>
@@ -19,8 +19,8 @@ The project evaluates a targeted risk-informed early action pilot in response to
 
 <br>
 
-**Ignorance is bliss? Rejection and discouragement in on-the-job search** \
-*Under review*\
+**Ignorance is bliss? Rejection and discouragement in on-the-job search**   
+*Under review*    
 [[Draft](/_pages/_assets/manuscript.pdf) | [Replication package](/_pages/_assets/otree_search_rej_game.zip) | [Data](/_pages/_assets/data.zip) | [Code](/_pages/_assets/dofiles.zip) | [AEA Trial Registry](https://www.socialscienceregistry.org/trials/9802)] 
 <details>
   <summary>Details</summary>
@@ -30,10 +30,10 @@ I investigate the effect that experiencing repeated rejection has on on-the-job 
 
 <br>
 
-**Improving Graduation Scalability through Group Coaching: Evidence from Bangladesh, the Philippines and Uganda** \
+**Improving Graduation Scalability through Group Coaching: Evidence from Bangladesh, the Philippines and Uganda**   
 (with Emily Beam, Lasse Brune, Narayan Das, Stefan Dercon, Nathanael Goldberg, Dean Karlan, Maliha Noshin Khan, Doug Parkerson, Ashley Pople,
-Yasuyuki Sawada, Christopher Udry) \
-AEA Trial Registries: [Philippenes](https://www.socialscienceregistry.org/trials/4658); [Uganda](https://www.socialscienceregistry.org/trials/4080); [Bangladesh](https://www.socialscienceregistry.org/trials/9618) \
+Yasuyuki Sawada, Christopher Udry)   
+AEA Trial Registries: [Philippenes](https://www.socialscienceregistry.org/trials/4658); [Uganda](https://www.socialscienceregistry.org/trials/4080); [Bangladesh](https://www.socialscienceregistry.org/trials/9618)   
 Survey instruments: [Bangladesh BL](/_pages/_assets/BD_BL.docx) | [Bangladesh EL](/_pages/_assets/BD_EL.docx)
 <details>
   <summary>Details</summary>
@@ -44,9 +44,9 @@ Multifaceted social protection programs, in particular ``graduation"-style progr
 <br>
 
 
-**The effect of timely cash transfers during an extreme flood shock: Evidence from the 2022 Pakistan Floods** \
-(with Prabhmeet Kaur Matta, Nihan Rafique, Ashley Pople) \
-Survey instruments: [EL](/_pages/_assets/PK_EL.docx) \
+**The effect of timely cash transfers during an extreme flood shock: Evidence from the 2022 Pakistan Floods**   
+(with Prabhmeet Kaur Matta, Nihan Rafique, Ashley Pople)   
+Survey instruments: [EL](/_pages/_assets/PK_EL.docx)   
 [AEA Trial Registry](https://www.socialscienceregistry.org/trials/12147){:target="_blank"}
 <p> </p>
 <br>
