@@ -22,8 +22,8 @@ The project evaluates a targeted risk-informed early action pilot in response to
 
 **The effect of timely cash transfers during an extreme flood shock: Evidence from the 2022 Pakistan Floods**   
 with Prabhmeet Kaur Matta, Nihan Rafique, Ashley Pople   
-Survey instruments: [EL](/files/PK_EL.docx)   
-[AEA Trial Registry](https://www.socialscienceregistry.org/trials/12147)
+[AEA Trial Registry](https://www.socialscienceregistry.org/trials/12147)   
+<small> [[EL survey instrument](/files/PK_EL.docx)] </small>   
 <p> </p>
 <br> 
 
