@@ -54,6 +54,19 @@ I investigate the effect that experiencing repeated rejection has on on-the-job 
 <br>
 
 
+**The effect of anticipatory action in the context of flood shocks in Somalia** \
+with Michael Green and Prabhmeet Kaur Matta \
+[AEA Trial Registry](https://www.socialscienceregistry.org/trials/12138)
+<p> </p>
+<br>
+
+
+**Ultra-poor graduation programmes and resilience to climate shocks: A mixed-methods investigation in flood-prone Pakistan** \
+with Nasir Iqbal, Prabhmeet Kaur Matta and Saima Nawaz  \
+<p> </p>
+<br>
+
+
 <!-- 
 **The effects of informal institutions on social and economic outcomes: Experimental evidence from Bangladesh** \
 (with Jay Garg, Narayan Das, Stefan Dercon, and Ashley Pople) \
@@ -63,9 +76,4 @@ I investigate the effect that experiencing repeated rejection has on on-the-job 
 
 
 
-**The effect of anticipatory action in the context of flood shocks in Somalia** \
-(with Ashley Pople, Michael Green, Lilly Schofield and Laura Swift) \
-[AEA Trial Registry](https://www.socialscienceregistry.org/trials/12138){:target="_blank"}
-<p> </p>
-<br>
 -->
