@@ -89,7 +89,7 @@ Unemployment is a key determinant of poverty in South Africa and labour market i
 <br>
 [**A poverty dynamics approach to social stratification: The South African Case**](https://www.sciencedirect.com/science/article/pii/S0305750X18301724)   
 with Simone Schotte and Murray Leibbrandt   
-*World Development*, 2018 (Vol. 1, Issue 2)   
+*World Development*, 2018 (Vol. 110)   
 <small>Media: [The Economist](https://www.economist.com/special-report/2019/04/25/cyril-ramaphosa-faces-a-daunting-task-if-he-wins-south-africas-election)</small>
 <details>
   <summary>Abstract</summary>
