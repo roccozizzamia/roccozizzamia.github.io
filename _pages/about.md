@@ -14,5 +14,6 @@ My research focuses on social protection and labour markets. In my current work,
 
 I am an [African Centre of Excellence for Inequality Research](African Centre of Excellence for Inequality Research){:target="_blank"} and [SALDRU](https://www.saldru.uct.ac.za/){:target="_blank"} research affiliate. I am currently the editor of the [CSAE Working Paper Series](https://www.csae.ox.ac.uk/working-papers){:target="_blank"}.
 
-I [run](https://www.thepowerof10.info/athletes/profile.aspx?athleteid=1175545){:target="_blank"}, [trail run](https://itra.run/api/RunnerSpace/GetRunnerSpace?memberString=Kv8Xs3dOnq9TP%2BrCLC6c6w%3D%3D){:target="_blank"}, and [climb](https://www.8a.nu/user/rocco-zizzamia){:target="_blank"}. 
+I feel most myself when I am doing difficult things in wild places. In my free time I run, climb and ride my bike. 
 
+<!--  [run](https://www.thepowerof10.info/athletes/profile.aspx?athleteid=1175545){:target="_blank"}, [trail run](https://itra.run/api/RunnerSpace/GetRunnerSpace?memberString=Kv8Xs3dOnq9TP%2BrCLC6c6w%3D%3D){:target="_blank"}, and [climb](https://www.8a.nu/user/rocco-zizzamia){:target="_blank"}. -->

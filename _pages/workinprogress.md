@@ -7,7 +7,7 @@ author_profile: true
 
 
 <p> </p>
-**Improved Early Action through Precise Targeting, Timely Cash, and Early Warning to Mitigate the Impacts of Climate Shocks**   
+**Acting early under uncertainty: Anticipatory cash transfers in the context of flood disasters**   
 with Stefan Dercon, Rohini Kamal, Prabhmeet Kaur Matta, Ashley Pople, Munshi Sulaiman and Hannah Timmis   
 Grants: [J-PAL King Climate Action Initiative](https://www.povertyactionlab.org/initiative-project/improved-early-action-through-precise-targeting-timely-cash-and-early-warning) & Weiss Asset Management Foundation   
 <small> [[BL survey instrument](/files/AA_BL.pdf)] </small>
@@ -16,17 +16,18 @@ Grants: [J-PAL King Climate Action Initiative](https://www.povertyactionlab.org/
 The project evaluates a targeted risk-informed early action pilot in response to floods in Bangladesh, testing efficacy of early warning messaging, timing of cash transfers, and data-driven innovations in targeting approaches. Through a randomized evaluation, we will target approximately 20,000 households, with some households receiving unconditional cash transfers ahead of or after a flood event. We will address two critical knowledge gaps that impede adopting early actions at scale. First, they will explore the optimal timing for delivering assistance: they will evaluate when best to act by examining how households use assistance before, during, or after a disaster. Second, we will evaluate the accuracy of data-driven approaches in targeting the most vulnerable households and the trade-offs thus incurred vis-a-vis timing. 
 </details>
 <p> </p>
-
 <br>
 
 
-**The effect of timely cash transfers during an extreme flood shock: Evidence from the 2022 Pakistan Floods**   
-with Prabhmeet Kaur Matta, Nihan Rafique, Ashley Pople   
-[AEA Trial Registry](https://www.socialscienceregistry.org/trials/12147)   
-<small> [[EL survey instrument](/files/PK_EL.docx)] </small>   
+**Optimal household targeting of cash transfers in a shock setting**   
+with Stefan Dercon, Rohini Kamal, Prabhmeet Kaur Matta, Ashley Pople, Munshi Sulaiman and Hannah Timmis   
 <p> </p>
-<br> 
+<br>
 
+**Floods and temporary internal migration**   
+with Prabhmeet Kaur Matta   
+<p> </p>
+<br>
 
 
 **Improving Graduation Scalability through Group Coaching: Evidence from Bangladesh, the Philippines and Uganda**   
@@ -61,8 +62,16 @@ with Michael Green and Prabhmeet Kaur Matta \
 <br>
 
 
+**The effect of timely cash transfers during an extreme flood shock: Evidence from the 2022 Pakistan Floods**   
+with Prabhmeet Kaur Matta, Nihan Rafique, Ashley Pople   
+[AEA Trial Registry](https://www.socialscienceregistry.org/trials/12147)   
+<small> [[EL survey instrument](/files/PK_EL.docx)] </small>   
+<p> </p>
+<br> 
+
+
 **Ultra-poor graduation programmes and resilience to climate shocks: A mixed-methods investigation in flood-prone Pakistan** \
-with Nasir Iqbal, Prabhmeet Kaur Matta and Saima Nawaz  \
+with Nasir Iqbal, Prabhmeet Kaur Matta and Saima Nawaz  
 <p> </p>
 <br>
 
