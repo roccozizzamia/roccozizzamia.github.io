@@ -109,7 +109,7 @@ with Anda David, Murray Leibbrandt, Rawane Yasser, and Vimal Ranchhod \
 In *Inequalities in Sub-Saharan Africa: Multidimensional Perspectives and Future Challenges*,
 2025 \
 edited by David, Anda; Leibbrandt, Murray; Ranchhod, Vimal; Yasser, Rawane. \
-World Bank \
+World Bank 
 <p> </p>
 
 [**Impact of COVID-19 on Urban Vulnerable Livelihoods**](https://global.oup.com/academic/product/covid-19-and-the-informal-economy-9780198887041?cc=gb&lang=en&) \
@@ -117,7 +117,7 @@ with Simone Schotte \
 In *COVID-19 and the Informal Economy*,
 2024 \
 edited by M. Chen; M. Rogan; K. Sen. \
-Oxford University Press \
+Oxford University Press 
 <p> </p>
 
 
@@ -128,7 +128,7 @@ with Simone Schotte and Murray Leibbrandt \
 In *Confronting Inequality: The South African Crisis*,
 2019 \
 edited by M.S. Smith. \
-Jacana Media \
+Jacana Media 
 <p> </p>
 
 
