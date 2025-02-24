@@ -35,7 +35,7 @@ with Stefan Dercon, Rohini Kamal, Prabhmeet Kaur Matta, Ashley Pople, Munshi Sul
 <p> </p>
 <br>
 
-**Floods and temporary internal migration**   
+**Welfare-Risk Trade-offs in Anticipatory Aid: A Portfolio Theory Approach**   
 with Prabhmeet Kaur Matta   
 <p> </p>
 <br>
@@ -53,7 +53,10 @@ Multifaceted social protection programs, in particular ``graduation"-style progr
 
 <br>
 
-
+**Social protection and climate adaptation: A mixed-methods analysis in flood-prone Bangladesh ** \
+with Anindita Bhattachargee \
+<p> </p>
+<br>
 
 
 **The effect of anticipatory action in the context of flood shocks in Somalia** \
