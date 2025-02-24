@@ -108,7 +108,7 @@ The wave of upbeat stories on the developing world’s emerging middle class has
 with Anda David, Murray Leibbrandt, Rawane Yasser, and Vimal Ranchhod \
 In *Inequalities in Sub-Saharan Africa: Multidimensional Perspectives and Future Challenges*,
 2025 \
-edited by David, Anda; Leibbrandt, Murray; Ranchhod, Vimal; Yasser, Rawane. \
+edited by A. David; M. Leibbrandt; V. Ranchhod; R. Yasser. \
 World Bank 
 <p> </p>
 
