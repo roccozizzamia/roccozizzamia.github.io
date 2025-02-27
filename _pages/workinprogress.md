@@ -54,7 +54,7 @@ Multifaceted social protection programs, in particular ``graduation"-style progr
 <br>
 
 **Social protection and climate adaptation: A mixed-methods analysis in flood-prone Bangladesh** \
-with Anindita Bhattachargee \
+with Anindita Bhattachargee 
 <p> </p>
 <br>
 
