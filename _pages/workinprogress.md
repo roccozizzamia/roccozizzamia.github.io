@@ -30,17 +30,6 @@ I investigate the effect that experiencing repeated rejection has on on-the-job 
 <br>
 
 
-**Optimal household targeting of cash transfers in a shock setting**   
-with Stefan Dercon, Rohini Kamal, Prabhmeet Kaur Matta, Ashley Pople, Munshi Sulaiman and Hannah Timmis   
-<p> </p>
-<br>
-
-**Welfare-Risk Trade-offs in Anticipatory Aid: A Portfolio Theory Approach**   
-with Prabhmeet Kaur Matta   
-<p> </p>
-<br>
-
-
 **Improving Graduation Scalability through Group Coaching: Evidence from Bangladesh, the Philippines and Uganda**   
 with Emily Beam, Lasse Brune, Narayan Das, Stefan Dercon, Nathanael Goldberg, Dean Karlan, Maliha Noshin Khan, Doug Parkerson, Ashley Pople,
 Yasuyuki Sawada, Christopher Udry   
@@ -52,6 +41,30 @@ Multifaceted social protection programs, in particular ``graduation"-style progr
 <p> </p>
 
 <br>
+
+
+**Ultra-poor graduation programmes and resilience to climate shocks: A mixed-methods investigation in flood-prone Pakistan** \
+with Nasir Iqbal and Saima Nawaz  
+[Working Paper](www.theigc.org/sites/default/files/2025-03/Nawaz-et-al-working-paper-march-2025.pdf)
+<details>
+  <summary>Details</summary>
+We assess the National Poverty Graduation Programme (NPGP) in Pakistan, focusing on its effectiveness in enhancing resilience against climate-induced shocks, particularly flooding. Using a mixed-method approach that combines regression discontinuity design (RDD) with qualitative in-depth interviews, we examine the short- and medium-term impacts of asset transfers on household well-being. We find that while asset transfers significantly improve food security, consumption, and savings among non-flooded households, these gains are not sustained during flood events. For flood-affected households, livestock becomes a liability, leading to increased borrowing and diminished resilience. These findings underscore a critical trade-off between asset accumulation and climate vulnerability, highlighting the need for more climate-resilient asset strategies in social protection programmes. The paper provides actionable policy insights for integrating adaptive social protection frameworks to enhance resilience in climate-vulnerable contexts.
+</details>
+
+<p> </p>
+<br>
+
+
+**Optimal household targeting of cash transfers in a shock setting**   
+with Stefan Dercon, Rohini Kamal, Prabhmeet Kaur Matta, Ashley Pople, Munshi Sulaiman and Hannah Timmis   
+<p> </p>
+<br>
+
+**Welfare-Risk Trade-offs in Anticipatory Aid: A Portfolio Theory Approach**   
+with Prabhmeet Kaur Matta   
+<p> </p>
+<br>
+
 
 **Social protection and climate adaptation: A mixed-methods analysis in flood-prone Bangladesh** \
 with Anindita Bhattachargee 
@@ -74,10 +87,6 @@ with Muhammad Bin Khalid, Prabhmeet Kaur Matta, Nihan Rafique, Ashley Pople
 <br> 
 
 
-**Ultra-poor graduation programmes and resilience to climate shocks: A mixed-methods investigation in flood-prone Pakistan** \
-with Nasir Iqbal, Prabhmeet Kaur Matta and Saima Nawaz  
-<p> </p>
-<br>
 
 
 <!-- 
