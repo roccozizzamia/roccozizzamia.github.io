@@ -30,10 +30,10 @@ I investigate the effect that experiencing repeated rejection has on on-the-job 
 <br>
 
 
-**Improving Graduation Scalability through Group Coaching: Evidence from Bangladesh, the Philippines and Uganda**   
+**Group versus Individual Coaching for Rural Social Protection Programs: Evidence from Uganda, Philippines, and Bangladesh**   
 with Emily Beam, Lasse Brune, Narayan Das, Stefan Dercon, Nathanael Goldberg, Dean Karlan, Maliha Noshin Khan, Doug Parkerson, Ashley Pople,
 Yasuyuki Sawada, Christopher Udry   
-<small> [[Bangladesh BL](/files/BD_BL.docx) | [Bangladesh EL](/files/BD_EL.docx) | AEA Trial Registries: [Philippenes](https://www.socialscienceregistry.org/trials/4658); [Uganda](https://www.socialscienceregistry.org/trials/4080); [Bangladesh](https://www.socialscienceregistry.org/trials/9618)]  </small> 
+<small> [[Draft](https://sites.northwestern.edu/christopherudry/files/2025/03/group_individ_full_paper.pdf) | [Bangladesh BL](/files/BD_BL.docx) | [Bangladesh EL](/files/BD_EL.docx) | AEA Trial Registries: [Philippenes](https://www.socialscienceregistry.org/trials/4658); [Uganda](https://www.socialscienceregistry.org/trials/4080); [Bangladesh](https://www.socialscienceregistry.org/trials/9618)]  </small> 
 <details>
   <summary>Details</summary>
 Multifaceted social protection programs, in particular ``graduation"-style programs with asset transfers and coaching, generate sizable welfare improvements, but their scale is often limited. Two key barriers to scaling are costs and the complexity of implementation. Individualized coaching—a hallmark of many graduation programs—is one of the largest cost components and is challenging to organize effectively. We examine results from three programs -- one in Bangladesh, one in the Philippines, and one in Uganda -- in which we randomized the coaching component to be delivered during individual household visits or group meetings. While group coaching could benefit from increased information sharing among group members and improved social connections, it might reduce individualized coaching attention and accountability or inhibit some participants' willingness to discuss their problems. We find that all coaching-variants of the graduation programme increase economic activity and economic and subjective well-being relative to a control group. However, we find no differences in impact between the individual and group coaching approaches on average or within machine-learning-generated subgroups based on baseline characteristics.
