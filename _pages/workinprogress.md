@@ -57,6 +57,11 @@ We assess the National Poverty Graduation Programme (NPGP) in Pakistan, focusing
 
 **Welfare-Risk Trade-offs in Anticipatory Aid: A Portfolio Theory Approach**   
 with Prabhmeet Kaur Matta   
+<details>
+  <summary>Details</summary>
+  This paper develops a portfolio optimization framework to analyze the allocation decisions of a social planner disbursing humanitarian aid in response to shocks that are amenable to forecasting. We model the social planner's three-pronged choice between investing in forecasting technology, deploying anticipatory aid based on existing forecasts, and providing post-shock assistance. Our approach treats the social planner as a portfolio manager evaluating risk-return trade-offs, where optimal allocations depend on the excess welfare gains above a baseline level of welfare and the volatility of these gains. Through simulation analysis, we demonstrate how forecasting accuracy fundamentally alters the effectiveness of anticipatory aid, with improvements in accuracy generating substantial initial welfare gains. Although advances in forecasting technologies and mobile money systems have enabled the growth of anticiptory aid, our model provides a structured approach to evaluating the conditions under which investments in forecast-based action generate the greatest welfare improvements, contributing to the emerging literature on cost-accuracy tradeoffs of anticipatory action frameworks in humanitarian contexts. 
+  </details>
+
 <p> </p>
 <br>
 
