@@ -43,6 +43,19 @@ Multifaceted social protection programs in low-income countries often include bo
 <br>
 
 
+**The Role of Multifaceted Social Protection Programmes and Microcredit in Fostering Adaptation to Climate Change** \
+with Prabhmeet Kaur Matta and Anindita Bhattachargee \
+<small> [[OSF Registration](https://osf.io/v7faz)] </small>
+<details>
+  <summary>Details</summary>
+In cyclone-prone Bangladesh, we investigate how beneficiaries and non-beneficiaries of microcredit and multifacteted social protection programmes differ in their experiences with climate events, adaptation strategies, and livelihood decisions. Combining rich qualitative data collected through semi-structured interviews with quantitative survey data collected through a structured household survey, we seek to investigate whether asset transfers function as potential safety nets during climate shocks, and the market conditions that affect households' ability to leverage these assets during crises. We investigate how households prepare for and recover from climate shocks, their perceptions of future climate risks, and the role of migration and insurance in their adaptation portfolios. While qualitative data collected through semi-structured interviews offers richer and more nuanced perspectives than structured survey data, the analysis of such data is often subject to cherry picking and narrative fallacies due to researcher bias. Natural language processing (NLP) methods may help overcome these issues but come at the cost of losing some of the narrative richness of qualitative data. This paper develops a method which aims to balance these concerns: We pre-specify how we use NLP methods to identify key themes and conduct sentiment analysis within these themes, and structure our qualitative analysis of the open-ended text data collected through the semi-structured interviews accordingly. This approach — both the act of pre-specification and the use of NLP to draw out key themes and conduct sentiment analysis — allows us to overcome core concerns with researcher bias, while at the same time retaining the richness of a qualitative analysis. 
+</details>
+<p> </p>
+<br>
+
+
+
+
 **Ultra-poor graduation programmes and resilience to climate shocks: A mixed-methods investigation in flood-prone Pakistan** \
 with Nasir Iqbal and Saima Nawaz  
 [Working Paper](www.theigc.org/sites/default/files/2025-03/Nawaz-et-al-working-paper-march-2025.pdf)
@@ -66,10 +79,6 @@ with Prabhmeet Kaur Matta
 <br>
 
 
-**Social protection and climate adaptation: A mixed-methods analysis in flood-prone Bangladesh** \
-with Anindita Bhattachargee 
-<p> </p>
-<br>
 
 
 **The effect of anticipatory action in the context of flood shocks in Somalia** \
