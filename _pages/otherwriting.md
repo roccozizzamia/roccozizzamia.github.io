@@ -5,6 +5,10 @@ permalink: /otherwriting/
 author_profile: true
 ---
 
+[**Scaling poverty alleviation: How group coaching makes graduation programmes more cost-effective**](https://voxdev.org/topic/social-protection/scaling-poverty-alleviation-how-group-coaching-makes-graduation-programmes)   
+with Emily Beam, Lasse Brune, Stefan Dercon, Dean Karlan, Ashley Pople and Christopher Udry   
+*VovDev*, 28 Oct. 2025
+
 [**Locked down and locked out: Repurposing social assistance in South Africa**](https://www.csae.ox.ac.uk/locked-down-and-locked-out-repurposing-social-assistance-in-south-africa)   
 with Ihsaan Bassier   
 *CSAE Research Podcast*, 11 Sept. 2024
