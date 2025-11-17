@@ -30,7 +30,8 @@ I investigate the effect that experiencing repeated rejection has on on-the-job 
 <br>
 
 
-**Group versus Individual Coaching for Rural Social Protection Programs: Evidence from Uganda, Philippines, and Bangladesh**   
+**Group versus Individual Coaching for Rural Social Protection Programs: Evidence from Uganda, Philippines, and Bangladesh**  
+*Conditional Accept, American Economic Review: Insights*    
 with Emily Beam, Lasse Brune, Narayan Das, Stefan Dercon, Nathanael Goldberg, Dean Karlan, Maliha Noshin Khan, Doug Parkerson, Ashley Pople,
 Yasuyuki Sawada, Christopher Udry   
 <small> [[NBER Working Paper](https://doi.org/10.3386/w34309) | [Bangladesh BL](/files/BD_BL.docx) | [Bangladesh EL](/files/BD_EL.docx) | AEA Trial Registries: [Philippenes](https://www.socialscienceregistry.org/trials/4658); [Uganda](https://www.socialscienceregistry.org/trials/4080); [Bangladesh](https://www.socialscienceregistry.org/trials/9618)]  </small> 
