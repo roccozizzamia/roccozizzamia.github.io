@@ -18,17 +18,6 @@ The project evaluates a targeted risk-informed early action pilot in response to
 <p> </p>
 <br>
 
-**Ignorance is bliss? Rejection and discouragement in on-the-job search**   
-*R&R, Journal of Behavioral and Experimental Economics*    
-<small> [[Draft](https://ora.ox.ac.uk/objects/uuid:64531bf5-bd53-4dbc-917d-da9ae5294a29/files/s7d278w387) | [Replication package](/files/otree_search_rej_game.zip) | [Data](/files/data.zip) | [Code](/_pages/_assets/dofiles.zip) | [AEA Trial Registry](https://www.socialscienceregistry.org/trials/9802)] </small> 
-<details>
-  <summary>Details</summary>
-I investigate the effect that experiencing repeated rejection has on on-the-job search. Using a lab-in-the-field experiment implemented with young workers in South Africa, I repeatedly ask subjects to choose between a high-return activity with frequent exposure to rejection signals and a lower-return activity with less frequent exposure to rejection signals. I ask whether subjects take costly action to avoid exposure to information on rejection by choosing the lower-return, lower-rejection activity. To do so, I experimentally vary both the rewards and the amount of rejection that subjects experience when choosing between the two tasks, holding other salient drivers of search behaviour constant, including eliminating the ability of players to learn about returns to search through experiencing rejection. I find that when exposed to (more frequent) rejection, subjects choose to trade-off expected earnings in order to avoid receiving rejection signals. I interpret these results as an example of active information avoidance.
-</details>
-<p> </p>
-
-<br>
-
 
 **Group versus Individual Coaching for Rural Social Protection Programs: Evidence from Uganda, Philippines, and Bangladesh**  
 *Conditional Accept, American Economic Review: Insights*    
@@ -44,6 +33,16 @@ Multifaceted social protection programs in low-income countries often include bo
 <br>
 
 
+<p> </p> 
+**Climate Resilient Education Systems: Cash transfers and remote learning during drought**  
+with Noam Angrist, Stefan Dercon and Nithya Srinivasan  
+Grants: [Strategic Impact Evaluation and Learning, IPA](https://poverty-action.org/siel)  
+<small> [[BL survey instrument](/files/CREST_BL.pdf)]</small>   
+<details> <summary>Details</summary> This project evaluates a climate risk–triggered package of interventions designed to protect children’s learning during droughts in northern Kenya. Leveraging a parametric insurance payout based on vegetation and rainfall indices, the intervention delivers unconditional cash transfers and remote education support to households with school-age children at risk of drought-induced learning disruptions. Using a randomized controlled trial across 210 primary schools in Garissa and Tana River counties, the study tests the effects of remote learning alone and in combination with cash transfers, alongside a nested household-level experiment evaluating one-on-one phone-based tutoring in numeracy. The evaluation examines whether timely, shock-responsive support can mitigate learning losses during climate shocks, and how combining income support with targeted educational interventions affects learning outcomes and household well-being. 
+</details> <p>  
+</p> <br> 
+
+
 **The Role of Multifaceted Social Protection Programmes and Microcredit in Fostering Adaptation to Climate Change** \
 with Prabhmeet Kaur Matta and Anindita Bhattachargee \
 <small> [[OSF Registration](https://osf.io/v7faz)] </small>
@@ -53,8 +52,6 @@ In cyclone-prone Bangladesh, we investigate how beneficiaries and non-beneficiar
 </details>
 <p> </p>
 <br>
-
-
 
 
 **Ultra-poor graduation programmes and resilience to climate shocks: A mixed-methods investigation in flood-prone Pakistan** \
@@ -81,13 +78,13 @@ with Prabhmeet Kaur Matta
 
 
 
+<!-- 
 
 **The effect of anticipatory action in the context of flood shocks in Somalia** \
 with Michael Green and Prabhmeet Kaur Matta \
 [AEA Trial Registry](https://www.socialscienceregistry.org/trials/12138)
 <p> </p>
 <br>
-
 
 **The effect of timely cash transfers during an extreme flood shock: Evidence from the 2022 Pakistan Floods**   
 with Muhammad Bin Khalid, Prabhmeet Kaur Matta, Nihan Rafique, Ashley Pople   
@@ -97,9 +94,6 @@ with Muhammad Bin Khalid, Prabhmeet Kaur Matta, Nihan Rafique, Ashley Pople
 <br> 
 
 
-
-
-<!-- 
 **The effects of informal institutions on social and economic outcomes: Experimental evidence from Bangladesh** \
 (with Jay Garg, Narayan Das, Stefan Dercon, and Ashley Pople) \
 [AEA Trial Registry](https://www.socialscienceregistry.org/trials/9709) \

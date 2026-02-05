@@ -8,6 +8,16 @@ author_profile: true
 ### Journal Publications
 <p> </p>
 
+**Ignorance is bliss? Rejection and discouragement in on-the-job search**   
+*Journal of Behavioral and Experimental Economics (Forthcoming)*    
+<small> [[Draft](https://ora.ox.ac.uk/objects/uuid:64531bf5-bd53-4dbc-917d-da9ae5294a29/files/s7d278w387) | [Replication package](/files/otree_search_rej_game.zip) | [Data](/files/data.zip) | [Code](/_pages/_assets/dofiles.zip) | [AEA Trial Registry](https://www.socialscienceregistry.org/trials/9802)] </small> 
+<details>
+  <summary>Details</summary>
+I investigate the effect that experiencing repeated rejection has on on-the-job search. Using a lab-in-the-field experiment implemented with young workers in South Africa, I repeatedly ask subjects to choose between a high-return activity with frequent exposure to rejection signals and a lower-return activity with less frequent exposure to rejection signals. I ask whether subjects take costly action to avoid exposure to information on rejection by choosing the lower-return, lower-rejection activity. To do so, I experimentally vary both the rewards and the amount of rejection that subjects experience when choosing between the two tasks, holding other salient drivers of search behaviour constant, including eliminating the ability of players to learn about returns to search through experiencing rejection. I find that when exposed to (more frequent) rejection, subjects choose to trade-off expected earnings in order to avoid receiving rejection signals. I interpret these results as an example of active information avoidance.
+</details>
+<p> </p>
+
+<br>
 
 <p> </p>
 [**The labor market and poverty impacts of covid-19 in South Africa**](https://onlinelibrary.wiley.com/doi/10.1111/saje.12356) \
