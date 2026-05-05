@@ -1,0 +1,247 @@
+---
+output: stevetemplates::cv
+geometry: margin=0.6in
+
+title: "CV"
+author: Rocco Zizzamia
+
+#jobtitle: ""
+address: "Centre for the Study of African Economies · Manor Rd · Oxford OX1 3UQ, UK"
+fontawesome: yes
+email: rocco.zizzamia@economics.ox.ac.uk
+# github: svmiller
+# twitter: stevenvmiller
+#osf: "Enter 5 digit osf string here"
+#phone: "+44 744 969 5005"
+web: roccozizzamia.github.io
+#updated: TRUE
+#rdateformat: "`r format(Sys.time(), '%d %b %Y')`"
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+<!-- Quantitative social scientist with 10 years of experience in applied research in sub-Saharan Africa and South Asia. Motivated to produce evidence that has a tangible impact on human welfare. Working with policymakers and NGOs and using experimental methods to evaluate the effects of cash transfers and social protection on poverty and households' resilience to climate shocks.  
+
+
+Development economist with 10 years of experience in applied research in sub-Saharan Africa and South Asia. Motivated to produce evidence that has a tangible impact on human welfare. Working with policymakers and NGOs and using experimental methods to evaluate the effects of social policies on climate adaptation and households' resilience to shocks.-->
+
+# Current Appointments
+
+Lecturer in Quantitative Methods (Dept. of Int. Development, University of Oxford) \hfill Sept. 2025-present
+
+Research Fellow (Dept. of Economics, University of Oxford) \hfill Nov. 2022-present
+
+
+# Education
+
+*University of Oxford*, DPhil, International Development \hfill 2023 
+
+*University of Oxford*, MPhil, Development Studies (Distinction)  \hfill 2018\
+with concentration in Development Economics 
+
+*University of Cape Town*, Bachelor of Arts (Honours) in Economic History (First Class)  \hfill 2015
+
+*University of Cape Town*, Bachelor of Social Science in Philosophy (First Class)  \hfill 2014\
+Visiting student, University of California, Berkeley
+
+# Research
+
+## Work in progress
+
+[Acting early under uncertainty: Anticipatory cash transfers in the context of flood disasters](https://www.povertyactionlab.org/initiative-project/improved-early-action-through-precise-targeting-timely-cash-and-early-warning) (with Stefan Dercon, Ashley Pople, Hannah Timmis, Prabhmeet Matta) 
+
+Learning Traps? Experimental Evidence on Threshold Dynamics in Education (with Noam Angrist and Claire Cullen) 
+
+Education  Support  During  Climate  Crises:  An  Evaluation  of  Cash  and  Remote  Learning (with Noam Angrist and Stefan Dercon) 
+
+Welfare-Risk Trade-offs in Anticipatory Aid: A Portfolio Theory Approach (with Prabhmeet Matta)
+
+[Fostering Adaptation to Climate Change: The Role of Multifaceted Social Protection Programmes and Microcredit](https://osf.io/bd2sh/)  (with Anindita Bhattacharjee and Prabhmeet Matta) 
+
+
+
+
+<!-- 
+
+Ultra-poor graduation programmes and resilience to climate shocks (with Nasir Iqbal and Saima Nawaz) 
+
+Optimal household targeting of cash transfers in a disaster setting (with Hannah Timmis, Stefan Dercon, Ashley Pople, Prabhmeet Matta) 
+
+The effect of anticipatory action in the context of flood shocks in Somalia (with Michael Green and Prabhmeet Matta) 
+
+Timely cash transfers during floods: Evidence from the 2022 Pakistan Floods (with Muhammad Bin Khalid, Martin Mattsson, Prabhmeet Matta, and Ashley Pople) 
+Evaluation of BRAC support to village committees during crises within the ultra-poor programme (with Stefan Dercon, Ashley Pople, and BIGD Dhaka) -->
+
+
+## Select publications
+
+Zizzamia, R., Stefan Dercon, Emily Beam, Dean Karlan, and others. (*forthcoming*). [Group versus individual coaching for rural social protection programs: Evidence from Uganda, Philippines, and Bangladesh](https://doi.org/10.3386/w34309), *American Economic Review: Insights*.
+
+Zizzamia, R. (*forthcoming*). [Rejection sensitivity and on-the-job search: A lab-in-the-field experiment in South Africa](https://ora.ox.ac.uk/objects/uuid:64531bf5-bd53-4dbc-917d-da9ae5294a29), *Journal of Behavioural and Experimental Economics*.
+
+Jain, R., Budlender, J., Zizzamia, R., & Bassier, I. (2023). [The labor market and poverty impacts of COVID-19 in South Africa](https://doi.org/10.1111/saje.12356). *South African Journal of Economics.* 91(4), 419-445.
+
+Schotte, S., & Zizzamia, R. (2022). [The livelihood impacts of COVID-19 in urban South Africa: A view from below](https://link.springer.com/article/10.1007/s11205-022-02978-7). *Social Indicators Research*. 1-30.
+
+Zizzamia, R., Schotte, S., & Leibbrandt, M. (2022). [Snakes and Ladders and Loaded Dice: Poverty Dynamics and Inequality in South Africa](https://onlinelibrary.wiley.com/doi/full/10.1111/saje.12308), 2008 to 2017. *South African Journal of Economics.* 214-242.
+
+Zizzamia, R., Bassier, I., Budlender, J., Leibbrandt, M., & Ranchhod, V. (2021). [Locked down and locked out: Repurposing social assistance as emergency relief to informal workers.](https://doi.org/10.1016/j.worlddev.2020.105271) *World Development*, 139, 105271.
+
+Clementi, F., Fabiani, M., Molini, V., & Zizzamia, R. (2021). [Are We Really Painting the Devil on the Walls? Polarization and its Drivers in Sub-Saharan Africa in the Past Two Decades.](https://doi.org/10.1093/jae/ejab006) *Journal of African Economies.*
+
+Zizzamia, R. (2020). [Is employment a panacea for poverty: A mixed-methods investigation into employment decisions in South Africa.](https://doi.org/10.1016/j.worlddev.2020.104938) *World Development.* 130. 104938.
+
+<!-- Leibbrandt, M., Schotte, S., & **Zizzamia, R.** (2019). Tackling persistent poverty and inequality: A dynamic perspective. In *Confronting Inequality: The South African Crisis*, edited by M.S. Smith. Jacana Media. -->
+
+Schotte, S., Zizzamia, R., & Leibbrandt, M. (2018). [A poverty dynamics approach to social stratification: The South African case.](https://doi.org/10.1016/j.worlddev.2018.05.024) *World Development*, 110, 88-103.
+
+
+# Consulting and past appointments
+
+## Research 
+
+Consultant (Inter-American Development Bank) \hfill  2026
+
+Fulford Junior Research Fellow (Somerville College, Oxford University) \hfill  2023 -  2025
+
+Consultant (BRAC International)  \hfill 2025
+
+Consultant (International Labour Organization) \hfill 2022
+
+<!--Research Assistant (Oxford Department of Social Policy and Intervention) \hfill 2022-->
+
+Research Officer (Southern African Labour and Development Research Unit)  \hfill 2016 - 2021
+
+<!--Consultant (National Income Dynamics Study-Coronavirus Rapid Mobile Survey) \hfill 2020-->
+
+Visiting Fellow (GIGA German Institute for Global and Area Studies) \hfill 2018
+
+Short-Term Consultant (World Bank Group, Poverty Global Practice Unit) \hfill 2017 - 2018
+
+## Teaching 
+
+Lecturer and convener, Quantitative Methods (Oxford Dept. of International Development) \hfill 2024-2025
+
+Lecturer, Economics Foundation Course (Oxford Dept. of International Development) \hfill 2025
+
+TA, Quantitative Methods (Oxford Dept. of International Development) \hfill 2020-2022
+
+TA, Various (Philosophy Dept., University of Cape Town) \hfill 2013 - 2014
+
+<!-- TA, Religion, Conflict and Violence (Religious Studies Dept, University of Cape Town) \hfill 2014 -->
+
+# Grants (PI or co-PI)
+
+*Education Support During Climate Crises: An Evaluation of Cash and Remote Learning*, Strategic Impact Evaluation and Learning | IPA
+ \
+**$740,000**  \hfill  2025 - 2027
+
+*Anticipatory action for climate disaster response*, Weiss Asset Management Foundation\
+Grantholder: GiveDirectly \
+**$1,000,000**  \hfill  2024 - 2025
+
+*The impacts of an ultra-poor graduation program in building resilience in flood-prone Pakistan*, IGC \
+**$25,000**  \hfill  2025
+
+*Research on climate change adaptation practices using micro-narratives*, Gates Foundation\
+**$85,000**  \hfill  2025
+
+*Anticipatory action for climate disaster response*, J-Pal King Climate Action Initiative\
+**$250,000**  \hfill  2023 - 2025
+
+*Boosting decent employment for Africa’s youth*, International Development Research Centre\
+**CAD$500,000**  \hfill  2019 - 2022
+
+*Working to learn: an evaluation of an on-the-job training program*, J-Pal Post-Primary Education Initiative\
+**$25,000**  \hfill  2019 - 2022
+
+<!-- *COVID-19 and livelihoods in urban South Africa*, UNU-WIDER\ -->
+<!-- **$8,000**  \hfill  2020 - 2021 -->
+
+<!-- *Poverty dynamics in South Africa: A mixed methods investigation*, German Institute for Global and Area Studies\ -->
+<!-- **$8,000**  \hfill  2017 -->
+
+
+# Awards
+
+Clarendon Scholarship \hfill  2019 - 2022
+
+Oxford Dept. International Development Scholarship \hfill  2022 - 2023
+
+Papiya Ghosh Thesis Prize (best MPhil thesis in Development Studies) \hfill 2018
+
+Skye Foundation Scholarship \hfill  2016 - 2018
+
+Michael Wills Scholarship \hfill  2016 - 2018
+
+<!-- UCT Humanities Scholarship \hfill 2012, 2013, 2014
+
+UCT Council Scholarship \hfill 2014, 2015
+
+Twamley Scholarship \hfill 2012, 2013
+
+Hyman Liberman Prize \hfill  2012-->
+
+
+# Presentations 
+
+Since 2016 I have presented original research at over 40 international conferences and seminars. 
+
+<!-- **2025** — ISDC, Berlin; AFD Conference, Paris (scheduled); IDOS Workshop, Bonn (scheduled); ISDC Fragile Lives, Berlin (scheduled); WFP Workshop, Rome (scheduled)-->
+
+<!-- **2024** — a2i x GiveDirectly Conference, Dhaka (online); NOVAFRICA Conference on Economic Development, Lisbon; Oxford Economics Department Jamboree, Oxford; SALDRU Conference, Cape Town-->
+
+<!-- **2023** — Department of Social Policy and Intervention workshop, Oxford; CREB Applied Development Economics, Lahore; ESA Africa Regional Conference, Cape Town; Path2Dev Conference, LUMS, Lahore -->
+
+<!-- **2022** — WB/IZA/UNU-WIDER Conference, Cape Town; CSAE Workshop, Oxford -->
+
+<!-- **2021** — UNU-WIDER Seminar, Helsinki (online); RESEP Seminar, Stellenbosch; CSAE Workshop, Oxford -->
+
+<!-- **2020** — Agence Française de Développement; SALDRU; African Centre for Excellence in Inequality Research; IUSSP Population, Poverty and Inequality Research Conference (all online) -->
+
+<!-- **2019** — IDRC/ILO/INCLUDE Workshop, Nairobi; WB/IZA/UNU-WIDER Conference, Bangkok; IUSSP Conference, University of Michigan -->
+
+<!-- **2018** — CSAE Conference, Oxford; SALDRU Seminar, Cape Town; RESEP Seminar, Stellenbosch; African Studies Centre, Oxford; INET-YSI Africa, Harare; HDCA Conference, Buenos Aires; AFD Conference, Paris; GIGA Seminar, Hamburg -->
+
+<!-- **2017** — Fifth Congress of African Economists, Malabo; HDCA Conference, Cape Town; CSAE Conference, Oxford; African Studies Centre, Oxford -->
+
+<!-- **2016** — DSA Conference, Oxford; SALDRU Seminar, Cape Town; International Workshop on the Middle Class in Africa, Cape Town -->
+
+
+# Public engagement
+My research has been featured in the [Financial Times](https://www.ft.com/content/85ad034e-146d-4e8f-a3ad-f8d237346d6d), The Economist ([1](https://www.economist.com/middle-east-and-africa/2020/07/18/covid-19-has-throttled-south-africas-economy), [2](https://www.economist.com/middle-east-and-africa/2024/05/02/how-south-africa-has-changed-30-years-after-apartheid), [3](https://www.economist.com/special-report/2019/04/25/cyril-ramaphosa-faces-a-daunting-task-if-he-wins-south-africas-election), [4](https://www.economist.com/middle-east-and-africa/2021/01/07/south-africas-black-middle-class-has-prospered-under-democracy)), [The Mail and Guardian](https://mg.co.za/news/2020-07-15-three-million-jobs-lost-and-hunger-surging-amid-covid-19-crisis-survey/), among others. My own public-facing writing can be found [here](https://roccozizzamia.github.io/otherwriting/).
+
+# Service
+
+**Policy engagement**: Policy modeling for the [Special Covid Grant Working group](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://covid19economicideas.org/wp-content/uploads/2020/04/Special-Covid-19-Grant-Proposal-full-version-17-April-2020.pdf) -- proposal to introduce a [Social Relief of Distress Grant](https://www.gov.za/services/services-residents/social-benefits/social-relief-distress#:~:text=Social%20relief%20of%20distress%20is,children's%20grants%20to%20be%20processed) adopted by the South African government.
+
+**Mentoring:** Co-founder of the [Oxford Africa Society Mentorship Scheme](https://www.oxforduniversityafricasociety.com/scholarship-access-mentorship)
+
+**Refereeing**: American Economic Review: Insights; Journal of Economic Inequality; Economic Modelling; World Development; Review of Development Economics; Applied Economics Letters; South African Journal of Economics.
+
+**Associate Editor:** Oxford Development Studies
+
+**Editor:** [CSAE Working Paper Series](https://www.csae.ox.ac.uk/working-papers?filter_types-3013581[]=c-report&filter_series-3013581[]=1356606,2072376,1429171)
+
+**Organiser:** CSAE Workshop on Social Protection and Climate Adaptation (2024); CSAE Research Seminar (2024-2025)
+<!-- ## Organization -->
+
+<!-- ## Refereeing -->
+
+<!-- ## Mentoring -->
+
+# Other information
+**Programming/Software** - Stata, R, Python
+
+**Languages** - English (native), Italian (native), German (actively learning), Afrikaans (basic)
+
+**Sport** - Oxford University First Marathon Team and half-Blue colours. Marathon PB: 2h28
+
+# References
+Stefan Dercon (stefan.dercon@economics.ox.ac.uk); Pramila Krishnan (pramila.krishnan@qeh.ox.ac.uk); Christopher Woodruff (christopher.woodruff@qeh.ox.ac.uk)
+
