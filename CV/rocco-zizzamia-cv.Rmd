@@ -32,9 +32,9 @@ Development economist with 10 years of experience in applied research in sub-Sah
 
 # Current Appointments
 
-Lecturer in Quantitative Methods (Dept. of Int. Development, University of Oxford) \hfill Sept. 2025-present
+Senior Research Fellow (Blavatnik School of Government, University of Oxford) \hfill Sept. 2026-present
 
-Research Fellow (Dept. of Economics, University of Oxford) \hfill Nov. 2022-present
+Lecturer in Quantitative Methods (Dept. of Int. Development, University of Oxford) \hfill Sept. 2025-present
 
 
 # Education
@@ -53,18 +53,17 @@ Visiting student, University of California, Berkeley
 
 ## Work in progress
 
-[Acting early under uncertainty: Anticipatory cash transfers in the context of flood disasters](https://www.povertyactionlab.org/initiative-project/improved-early-action-through-precise-targeting-timely-cash-and-early-warning) (with Stefan Dercon, Ashley Pople, Hannah Timmis, Prabhmeet Matta) 
+[Acting early under uncertainty: Anticipatory cash transfers in the context of flood disasters](https://www.povertyactionlab.org/initiative-project/improved-early-action-through-precise-targeting-timely-cash-and-early-warning) (with Stefan Dercon, Ashley Pople, Hannah Timmis, Prabhmeet Matta)
 
-Learning Traps? Experimental Evidence on Threshold Dynamics in Education (with Noam Angrist and Claire Cullen) 
+[Fostering Adaptation to Climate Change: The Role of Multifaceted Social Protection Programmes and Microcredit](https://osf.io/bd2sh/)  (with Anindita Bhattacharjee and Prabhmeet Matta)
 
-Education  Support  During  Climate  Crises:  An  Evaluation  of  Cash  and  Remote  Learning (with Noam Angrist and Stefan Dercon) 
+Learning Traps? Experimental Evidence on Threshold Dynamics in Education (with Noam Angrist and Claire Cullen)
 
-Welfare-Risk Trade-offs in Anticipatory Aid: A Portfolio Theory Approach (with Prabhmeet Matta)
+The Labour Market Returns to Schooling: Evidence from Compulsory Schooling Reforms in Africa (with Noam Angrist, Sharnic Djaker and Julio Rodriguez)
 
-[Fostering Adaptation to Climate Change: The Role of Multifaceted Social Protection Programmes and Microcredit](https://osf.io/bd2sh/)  (with Anindita Bhattacharjee and Prabhmeet Matta) 
+Education  Support  During  Climate  Crises:  An  Evaluation  of  Cash  and  Remote  Learning (with Noam Angrist and Stefan Dercon)
 
-
-
+Fiscal Savings from Anticipatory Action: Under What Conditions Does Early Action Pay for Itself? (with Prabhmeet Matta and Jasper Andrée)
 
 <!-- 
 
@@ -105,13 +104,9 @@ Schotte, S., Zizzamia, R., & Leibbrandt, M. (2018). [A poverty dynamics approach
 
 ## Research 
 
-Consultant (Inter-American Development Bank) \hfill  2026
+Research Fellow (Centre for the Study of African Economies, University of Oxford) \hfill 2022-2026
 
 Fulford Junior Research Fellow (Somerville College, Oxford University) \hfill  2023 -  2025
-
-Consultant (BRAC International)  \hfill 2025
-
-Consultant (International Labour Organization) \hfill 2022
 
 <!--Research Assistant (Oxford Department of Social Policy and Intervention) \hfill 2022-->
 
@@ -119,9 +114,13 @@ Research Officer (Southern African Labour and Development Research Unit)  \hfill
 
 <!--Consultant (National Income Dynamics Study-Coronavirus Rapid Mobile Survey) \hfill 2020-->
 
-Visiting Fellow (GIGA German Institute for Global and Area Studies) \hfill 2018
+Various consultancies (World Bank, BRAC International, Inter-American Development Bank, ILO) \hfill 2016 - 2026
 
-Short-Term Consultant (World Bank Group, Poverty Global Practice Unit) \hfill 2017 - 2018
+<!--Visiting Fellow (GIGA German Institute for Global and Area Studies) \hfill 2018
+Consultant (International Labour Organization) \hfill 2022
+Consultant (BRAC International)  \hfill 2025
+Consultant (Inter-American Development Bank) \hfill  2026
+Short-Term Consultant (World Bank Group, Poverty Global Practice Unit) \hfill 2017 - 2018-->
 
 ## Teaching 
 
@@ -129,11 +128,11 @@ Lecturer and convener, Quantitative Methods (Oxford Dept. of International Devel
 
 Lecturer, Economics Foundation Course (Oxford Dept. of International Development) \hfill 2025
 
-TA, Quantitative Methods (Oxford Dept. of International Development) \hfill 2020-2022
+<!-- TA, Quantitative Methods (Oxford Dept. of International Development) \hfill 2020-2022
 
 TA, Various (Philosophy Dept., University of Cape Town) \hfill 2013 - 2014
 
-<!-- TA, Religion, Conflict and Violence (Religious Studies Dept, University of Cape Town) \hfill 2014 -->
+TA, Religion, Conflict and Violence (Religious Studies Dept, University of Cape Town) \hfill 2014 -->
 
 # Grants (PI or co-PI)
 
@@ -168,6 +167,8 @@ Grantholder: GiveDirectly \
 
 
 # Awards
+
+Award for Excellence, Oxford Dept. of Economics \hfill 2026
 
 Clarendon Scholarship \hfill  2019 - 2022
 

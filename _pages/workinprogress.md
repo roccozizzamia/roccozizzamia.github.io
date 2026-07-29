@@ -5,8 +5,6 @@ permalink: /workinprogress/
 author_profile: true
 ---
 
-
-<p> </p>
 **Acting early under uncertainty: Anticipatory cash transfers in the context of flood disasters**   
 with Stefan Dercon, Rohini Kamal, Prabhmeet Kaur Matta, Ashley Pople, Munshi Sulaiman and Hannah Timmis   
 Grants: [J-PAL King Climate Action Initiative](https://www.povertyactionlab.org/initiative-project/improved-early-action-through-precise-targeting-timely-cash-and-early-warning) & Weiss Asset Management Foundation   
@@ -19,17 +17,24 @@ The project evaluates a targeted risk-informed early action pilot in response to
 <br>
 
 
-**Group versus Individual Coaching for Rural Social Protection Programs: Evidence from Uganda, Philippines, and Bangladesh**  
-*Conditional Accept, American Economic Review: Insights*    
-with Emily Beam, Lasse Brune, Narayan Das, Stefan Dercon, Nathanael Goldberg, Dean Karlan, Maliha Noshin Khan, Doug Parkerson, Ashley Pople,
-Yasuyuki Sawada, Christopher Udry   
-<small> [[NBER Working Paper](https://doi.org/10.3386/w34309) | [Bangladesh BL](/files/BD_BL.docx) | [Bangladesh EL](/files/BD_EL.docx) | AEA Trial Registries: [Philippenes](https://www.socialscienceregistry.org/trials/4658); [Uganda](https://www.socialscienceregistry.org/trials/4080); [Bangladesh](https://www.socialscienceregistry.org/trials/9618)]  </small> 
+<p> </p>
+**Learning Traps? Experimental Evidence on Threshold Dynamics in Education** \
+with Noam Angrist and Claire Cullen \
 <details>
   <summary>Details</summary>
-Multifaceted social protection programs in low-income countries often include both capital grants and informational and behavioral support on the premise that households face simultaneous and multiple frictions. To tackle informational and behavioral constraints, programs typically deploy either individual or group coaching visits from f ield agents. The relative efficacy of individual versus group coaching could provide insights into the underlying mechanism through which information and behavioral support change household decisions. However, in three similar randomized evaluations in Uganda, the Philippines, and Bangladesh, we find no differences in efficacy. Given its 15–20% lower costs, group coaching is more cost-effective.
+Learning gains from educational interventions in low-income countries often fade after the intervention ends. This project asks whether fade-out reflects intrinsic differences in ability, or whether there are thresholds in foundational skills beyond which learning becomes self-sustaining — a learning analogue to the poverty trap. Working with the ConnectEd phone-tutoring programme in the Philippines, we randomise 3,500 grade 3–5 students into a control group and four treatment arms tutored to progressively higher numeracy operations (addition through division). Because randomisation varies the target skill level a child is tutored to — not merely whether they are tutored — the design generates exogenous variation in the level of mastery a child reaches while holding ability constant. Weekly assessments track progression through operation levels, and follow-up assessments measure whether gains persist, providing an experimental test of whether the persistence of learning gains is continuous in the level attained or exhibits the discontinuities that a threshold model predicts.
 </details>
 <p> </p>
+<br>
 
+
+**The Labour Market Returns to Schooling: Evidence from Compulsory Schooling Reforms in Africa** \
+with Noam Angrist, Sharnic Djaker and Julio Rodriguez \
+<details>
+  <summary>Details</summary>
+This project estimates the labour market returns to schooling across Africa, using the staggered introduction of compulsory schooling reforms as a source of identifying variation. Reforms in fifteen African countries changed the minimum years of schooling or the school-leaving age, shifting educational attainment for cohorts exposed to the law relative to those who narrowly preceded it. Combining harmonised labour force and household survey data with Demographic and Health Surveys, we use the first birth cohort affected by each reform to instrument for years of schooling, and estimate the effect of additional schooling on employment, earnings, and occupational structure. The design recovers the returns to a marginal year of compulsory education for populations at the lower end of the attainment distribution, where the policy relevance of schooling investments is greatest.
+</details>
+<p> </p>
 <br>
 
 
@@ -43,36 +48,25 @@ Grants: [Strategic Impact Evaluation and Learning, IPA](https://poverty-action.o
 </p> <br> 
 
 
+
 **The Role of Multifaceted Social Protection Programmes and Microcredit in Fostering Adaptation to Climate Change** \
-with Prabhmeet Kaur Matta and Anindita Bhattachargee \
+with Prabhmeet Kaur Matta and Anindita Bhattacharjee \
 <small> [[OSF Registration](https://osf.io/v7faz)] </small>
 <details>
   <summary>Details</summary>
-In cyclone-prone Bangladesh, we investigate how beneficiaries and non-beneficiaries of microcredit and multifacteted social protection programmes differ in their experiences with climate events, adaptation strategies, and livelihood decisions. Combining rich qualitative data collected through semi-structured interviews with quantitative survey data collected through a structured household survey, we seek to investigate whether asset transfers function as potential safety nets during climate shocks, and the market conditions that affect households' ability to leverage these assets during crises. We investigate how households prepare for and recover from climate shocks, their perceptions of future climate risks, and the role of migration and insurance in their adaptation portfolios. While qualitative data collected through semi-structured interviews offers richer and more nuanced perspectives than structured survey data, the analysis of such data is often subject to cherry picking and narrative fallacies due to researcher bias. Natural language processing (NLP) methods may help overcome these issues but come at the cost of losing some of the narrative richness of qualitative data. This paper develops a method which aims to balance these concerns: We pre-specify how we use NLP methods to identify key themes and conduct sentiment analysis within these themes, and structure our qualitative analysis of the open-ended text data collected through the semi-structured interviews accordingly. This approach — both the act of pre-specification and the use of NLP to draw out key themes and conduct sentiment analysis — allows us to overcome core concerns with researcher bias, while at the same time retaining the richness of a qualitative analysis. 
+In cyclone-prone Bangladesh, we investigate how beneficiaries and non-beneficiaries of microcredit and multifaceted social protection programmes differ in their experiences with climate events, adaptation strategies, and livelihood decisions. Combining rich qualitative data collected through semi-structured interviews with quantitative survey data collected through a structured household survey, we seek to investigate whether asset transfers function as potential safety nets during climate shocks, and the market conditions that affect households' ability to leverage these assets during crises. We investigate how households prepare for and recover from climate shocks, their perceptions of future climate risks, and the role of migration and insurance in their adaptation portfolios. While qualitative data collected through semi-structured interviews offers richer and more nuanced perspectives than structured survey data, the analysis of such data is often subject to cherry picking and narrative fallacies due to researcher bias. Natural language processing (NLP) methods may help overcome these issues but come at the cost of losing some of the narrative richness of qualitative data. This paper develops a method which aims to balance these concerns: We pre-specify how we use NLP methods to identify key themes and conduct sentiment analysis within these themes, and structure our qualitative analysis of the open-ended text data collected through the semi-structured interviews accordingly. This approach — both the act of pre-specification and the use of NLP to draw out key themes and conduct sentiment analysis — allows us to overcome core concerns with researcher bias, while at the same time retaining the richness of a qualitative analysis. 
 </details>
 <p> </p>
 <br>
 
 
-**Ultra-poor graduation programmes and resilience to climate shocks: A mixed-methods investigation in flood-prone Pakistan** \
-with Nasir Iqbal and Saima Nawaz  
-[Working Paper](www.theigc.org/sites/default/files/2025-03/Nawaz-et-al-working-paper-march-2025.pdf)
+**Fiscal Savings from Anticipatory Action: Under What Conditions Does Early Action Pay for Itself?** \
+with Prabhmeet Kaur Matta and Jasper Andrée \
+<small> Prepared for the Inter-American Development Bank and UN-OCHA </small>
 <details>
   <summary>Details</summary>
-We assess the National Poverty Graduation Programme (NPGP) in Pakistan, focusing on its effectiveness in enhancing resilience against climate-induced shocks, particularly flooding. Using a mixed-method approach that combines regression discontinuity design (RDD) with qualitative in-depth interviews, we examine the short- and medium-term impacts of asset transfers on household well-being. We find that while asset transfers significantly improve food security, consumption, and savings among non-flooded households, these gains are not sustained during flood events. For flood-affected households, livestock becomes a liability, leading to increased borrowing and diminished resilience. These findings underscore a critical trade-off between asset accumulation and climate vulnerability, highlighting the need for more climate-resilient asset strategies in social protection programmes. The paper provides actionable policy insights for integrating adaptive social protection frameworks to enhance resilience in climate-vulnerable contexts.
+Governments in Latin America and the Caribbean spend billions each year responding to climate disasters after they occur. This report asks whether anticipatory action — pre-arranged financing released automatically when a forecast trigger fires — can reduce that fiscal burden by enough to pay for itself. We develop a model of expected government fiscal savings from anticipatory action as a function of the probability that a disaster occurs, the forecast hit rate, the share of emergency expenditure that early action avoids, and the government's baseline fiscal outlay per event. Calibrating the model across eleven country–hazard frameworks in four Latin American and Caribbean sub-regions, we find that anticipatory action pays for itself when it reduces government emergency expenditure by at least roughly twelve per cent in triggered disaster years; the best-documented case, Honduras drought, generates \$1.69 in fiscal savings per dollar of programme cost under the preferred specification. The framework — published as an open-access repository — identifies the conditions under which the fiscal case for anticipatory action holds, and the data investments needed to evaluate it with greater precision.
 </details>
-
-<p> </p>
-<br>
-
-
-**Welfare-Risk Trade-offs in Anticipatory Aid: A Portfolio Theory Approach**   
-with Prabhmeet Kaur Matta   
-<details>
-  <summary>Details</summary>
-  This paper develops a portfolio optimization framework to analyze the allocation decisions of a social planner disbursing humanitarian aid in response to shocks that are amenable to forecasting. We model the social planner's three-pronged choice between investing in forecasting technology, deploying anticipatory aid based on existing forecasts, and providing post-shock assistance. Our approach treats the social planner as a portfolio manager evaluating risk-return trade-offs, where optimal allocations depend on the excess welfare gains above a baseline level of welfare and the volatility of these gains. Through simulation analysis, we demonstrate how forecasting accuracy fundamentally alters the effectiveness of anticipatory aid, with improvements in accuracy generating substantial initial welfare gains. Although advances in forecasting technologies and mobile money systems have enabled the growth of anticiptory aid, our model provides a structured approach to evaluating the conditions under which investments in forecast-based action generate the greatest welfare improvements, contributing to the emerging literature on cost-accuracy tradeoffs of anticipatory action frameworks in humanitarian contexts. 
-  </details>
-
 <p> </p>
 <br>
 

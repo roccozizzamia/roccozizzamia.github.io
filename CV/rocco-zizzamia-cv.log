@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2026.2.1)  5 MAY 2026 17:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2026.2.1)  29 JUL 2026 17:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -750,15 +750,15 @@ Package rerunfilecheck Info: File `rocco-zizzamia-cv.out' has not changed.
 (rerunfilecheck)             Checksum: 9D71C32693D9F049276BAA32844FEA14;1804.
  ) 
 Here is how much of TeX's memory you used:
- 26366 strings out of 469453
- 484207 string characters out of 5466279
- 902593 words of memory out of 5000000
+ 26371 strings out of 469453
+ 484252 string characters out of 5466279
+ 901593 words of memory out of 5000000
  54332 multiletter control sequences out of 15000+600000
- 674004 words of font info for 234 fonts, out of 8000000 for 9000
+ 674285 words of font info for 238 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 117i,11n,121p,1029b,505s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 117i,12n,121p,1029b,505s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/roccozizzamia/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk></Users/roccozizzamia/Library/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></Users/roccozizzamia/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb></Users/roccozizzamia/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></Users/roccozizzamia/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></Users/roccozizzamia/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></Users/roccozizzamia/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on rocco-zizzamia-cv.pdf (3 pages, 122110 bytes).
+Output written on rocco-zizzamia-cv.pdf (3 pages, 122259 bytes).
 PDF statistics:
  186 PDF objects out of 1000 (max. 8388607)
  148 compressed objects within 2 object streams

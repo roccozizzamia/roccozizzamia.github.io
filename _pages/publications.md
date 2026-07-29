@@ -8,6 +8,18 @@ author_profile: true
 ### Journal Publications
 <p> </p>
 
+**Group versus Individual Coaching for Rural Social Protection Programs: Evidence from Uganda, Philippines, and Bangladesh**   
+with Emily Beam, Lasse Brune, Narayan Das, Stefan Dercon, Nathanael Goldberg, Dean Karlan, Maliha Noshin Khan, Doug Parkerson, Ashley Pople, Yasuyuki Sawada, and Christopher Udry   
+*American Economic Review: Insights,* Conditional Accept    
+<small> [[NBER Working Paper](https://doi.org/10.3386/w34309) | [Bangladesh BL](/files/BD_BL.docx) | [Bangladesh EL](/files/BD_EL.docx) | AEA Trial Registries: [Philippines](https://www.socialscienceregistry.org/trials/4658); [Uganda](https://www.socialscienceregistry.org/trials/4080); [Bangladesh](https://www.socialscienceregistry.org/trials/9618)]  </small> 
+<details>
+  <summary>Abstract</summary>
+Multifaceted social protection programs in low-income countries often include both capital grants and informational and behavioral support on the premise that households face simultaneous and multiple frictions. To tackle informational and behavioral constraints, programs typically deploy either individual or group coaching visits from field agents. The relative efficacy of individual versus group coaching could provide insights into the underlying mechanism through which information and behavioral support change household decisions. However, in three similar randomized evaluations in Uganda, the Philippines, and Bangladesh, we find no differences in efficacy. Given its 15–20% lower costs, group coaching is more cost-effective.
+</details>
+<p> </p>
+
+<br>
+
 **Ignorance is bliss? Rejection and discouragement in on-the-job search**   
 *Journal of Behavioral and Experimental Economics (Forthcoming)*    
 <small> [[Draft](https://ora.ox.ac.uk/objects/uuid:64531bf5-bd53-4dbc-917d-da9ae5294a29/files/s7d278w387) | [Replication package](/files/otree_search_rej_game.zip) | [Data](/files/data.zip) | [Code](/_pages/_assets/dofiles.zip) | [AEA Trial Registry](https://www.socialscienceregistry.org/trials/9802)] </small> 
