@@ -19,7 +19,7 @@ The project evaluates a targeted risk-informed early action pilot in response to
 
 <p> </p>
 **Learning Traps? Experimental Evidence on Threshold Dynamics in Education** \
-with Noam Angrist and Claire Cullen \
+with Noam Angrist and Claire Cullen 
 <details>
   <summary>Details</summary>
 Learning gains from educational interventions in low-income countries often fade after the intervention ends. This project asks whether fade-out reflects intrinsic differences in ability, or whether there are thresholds in foundational skills beyond which learning becomes self-sustaining — a learning analogue to the poverty trap. Working with the ConnectEd phone-tutoring programme in the Philippines, we randomise 3,500 grade 3–5 students into a control group and four treatment arms tutored to progressively higher numeracy operations (addition through division). Because randomisation varies the target skill level a child is tutored to — not merely whether they are tutored — the design generates exogenous variation in the level of mastery a child reaches while holding ability constant. Weekly assessments track progression through operation levels, and follow-up assessments measure whether gains persist, providing an experimental test of whether the persistence of learning gains is continuous in the level attained or exhibits the discontinuities that a threshold model predicts.
@@ -29,7 +29,7 @@ Learning gains from educational interventions in low-income countries often fade
 
 
 **The Labour Market Returns to Schooling: Evidence from Compulsory Schooling Reforms in Africa** \
-with Noam Angrist, Sharnic Djaker and Julio Rodriguez \
+with Noam Angrist, Sharnic Djaker and Julio Rodriguez 
 <details>
   <summary>Details</summary>
 This project estimates the labour market returns to schooling across Africa, using the staggered introduction of compulsory schooling reforms as a source of identifying variation. Reforms in fifteen African countries changed the minimum years of schooling or the school-leaving age, shifting educational attainment for cohorts exposed to the law relative to those who narrowly preceded it. Combining harmonised labour force and household survey data with Demographic and Health Surveys, we use the first birth cohort affected by each reform to instrument for years of schooling, and estimate the effect of additional schooling on employment, earnings, and occupational structure. The design recovers the returns to a marginal year of compulsory education for populations at the lower end of the attainment distribution, where the policy relevance of schooling investments is greatest.
