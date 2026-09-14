@@ -8,7 +8,7 @@ author: Rocco Zizzamia
 #jobtitle: ""
 address: "Centre for the Study of African Economies · Manor Rd · Oxford OX1 3UQ, UK"
 fontawesome: yes
-email: rocco.zizzamia@economics.ox.ac.uk
+email: rocco.zizzamia@bsg.ox.ac.uk
 # github: svmiller
 # twitter: stevenvmiller
 #osf: "Enter 5 digit osf string here"
@@ -32,7 +32,7 @@ Development economist with 10 years of experience in applied research in sub-Sah
 
 # Current Appointments
 
-Senior Research Fellow (Blavatnik School of Government, University of Oxford) \hfill Sept. 2026-present
+Senior Research Scientist (Blavatnik School of Government, University of Oxford) \hfill Sept. 2026-present
 
 Lecturer in Quantitative Methods (Dept. of Int. Development, University of Oxford) \hfill Sept. 2025-present
 
