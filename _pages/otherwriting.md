@@ -7,7 +7,7 @@ author_profile: true
 
 [**Scaling poverty alleviation: How group coaching makes graduation programmes more cost-effective**](https://voxdev.org/topic/social-protection/scaling-poverty-alleviation-how-group-coaching-makes-graduation-programmes)   
 with Emily Beam, Lasse Brune, Stefan Dercon, Dean Karlan, Ashley Pople and Christopher Udry   
-*VovDev*, 28 Oct. 2025
+*VoxDev*, 28 Oct. 2025
 
 [**Locked down and locked out: Repurposing social assistance in South Africa**](https://www.csae.ox.ac.uk/locked-down-and-locked-out-repurposing-social-assistance-in-south-africa)   
 with Ihsaan Bassier   
@@ -17,15 +17,15 @@ with Ihsaan Bassier
 with Simone Schotte   
 *News24*, 27 Mar. 2021
 
-[**Covid-19 job losses persist, but grants cushion the blow**](https://www.dailymaverick.co.za/article/2020-09-30-covid-19-job-losses-persist-but-grants-cushion-the-blow/). 
+[**Covid-19 job losses persist, but grants cushion the blow**](https://www.dailymaverick.co.za/article/2020-09-30-covid-19-job-losses-persist-but-grants-cushion-the-blow/)   
 with Ihsaan Bassier, Joshua Budlender and Ronak Jain   
 *Daily Maverick*, 30 Sept. 2020
 
-[**‘Distress grant’ misses the mark**](https://www.businesslive.co.za/fm/features/2020-07-15-distress-grant-misses-the-mark/). 
+[**‘Distress grant’ misses the mark**](https://www.businesslive.co.za/fm/features/2020-07-15-distress-grant-misses-the-mark/)   
 with Ihsaan Bassier, Joshua Budlender, Ronak Jain and Murray Leibbrandt  
 *Business Day*, 15 July 2020
 
-[**South Africa can – and should – top up child support grants**](https://theconversation.com/south-africa-can-and-should-top-up-child-support-grants-to-avoid-a-humanitarian-crisis-135222). 
+[**South Africa can – and should – top up child support grants**](https://theconversation.com/south-africa-can-and-should-top-up-child-support-grants-to-avoid-a-humanitarian-crisis-135222)   
 with Ihsaan Bassier, Joshua Budlender, Vimal Ranchhod and Murray Leibbrandt   
 *The Conversation*, 31 Mar. 2020
 

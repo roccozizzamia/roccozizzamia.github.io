@@ -10,7 +10,7 @@ author_profile: true
 
 **Group versus Individual Coaching for Rural Social Protection Programs: Evidence from Uganda, Philippines, and Bangladesh**   
 with Emily Beam, Lasse Brune, Narayan Das, Stefan Dercon, Nathanael Goldberg, Dean Karlan, Maliha Noshin Khan, Doug Parkerson, Ashley Pople, Yasuyuki Sawada, and Christopher Udry   
-*American Economic Review: Insights,* Conditional Accept    
+*American Economic Review: Insights,* forthcoming    
 <small> [[NBER Working Paper](https://doi.org/10.3386/w34309) | [Bangladesh BL](/files/BD_BL.docx) | [Bangladesh EL](/files/BD_EL.docx) | AEA Trial Registries: [Philippines](https://www.socialscienceregistry.org/trials/4658); [Uganda](https://www.socialscienceregistry.org/trials/4080); [Bangladesh](https://www.socialscienceregistry.org/trials/9618)]  </small> 
 <details>
   <summary>Abstract</summary>
@@ -21,10 +21,10 @@ Multifaceted social protection programs in low-income countries often include bo
 <br>
 
 [**Ignorance is bliss? Rejection and discouragement in on-the-job search**](https://www.sciencedirect.com/science/article/pii/S2214804326000352)   
-*Journal of Behavioral and Experimental Economics*, 2026 (Vol. 122, 102544) \    
-<small> [[Working paper](https://ora.ox.ac.uk/objects/uuid:64531bf5-bd53-4dbc-917d-da9ae5294a29/files/s7d278w387) | [Replication package](/files/otree_search_rej_game.zip) | [Data](/files/data.zip) | [Code](/_pages/_assets/dofiles.zip) | [AEA Trial Registry](https://www.socialscienceregistry.org/trials/9802)] </small> 
+*Journal of Behavioral and Experimental Economics*, 2026 (Vol. 122, 102544) \
+<small> [[Working paper](https://ora.ox.ac.uk/objects/uuid:64531bf5-bd53-4dbc-917d-da9ae5294a29/files/s7d278w387) | [Replication package](/files/otree_search_rej_game.zip) | [Data](/files/data.zip) | [Code](/files/dofiles.zip) | [AEA Trial Registry](https://www.socialscienceregistry.org/trials/9802)] </small> 
 <details>
-  <summary>Details</summary>
+  <summary>Abstract</summary>
 I investigate the effect that experiencing repeated rejection has on on-the-job search. Using a lab-in-the-field experiment implemented with young workers in South Africa, I repeatedly ask subjects to choose between a high-return activity with frequent exposure to rejection signals and a lower-return activity with less frequent exposure to rejection signals. I ask whether subjects take costly action to avoid exposure to information on rejection by choosing the lower-return, lower-rejection activity. To do so, I experimentally vary both the rewards and the amount of rejection that subjects experience when choosing between the two tasks, holding other salient drivers of search behaviour constant, including eliminating the ability of players to learn about returns to search through experiencing rejection. I find that when exposed to (more frequent) rejection, subjects choose to trade-off expected earnings in order to avoid receiving rejection signals. I interpret these results as an example of active information avoidance.
 </details>
 <p> </p>
@@ -36,9 +36,9 @@ I investigate the effect that experiencing repeated rejection has on on-the-job 
 with Ihsaan Bassier, Joshua Budlender, and Ronak Jain \
 *South African Journal of Economics,* 2023 (Vol. 91, Issue 4) \
 <small>
-[[Wave 1 working paper](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cramsurvey.org/wp-content/uploads/2020/07/Jain-The-labour-market-and-poverty-impacts.pdf) | [Code](/files/w1.zip) | [Op-Ed](https://www.businesslive.co.za/fm/features/2020-07-15-distress-grant-misses-the-mark/)]  
-[[Wave 2 working paper](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cramsurvey.org/wp-content/uploads/2020/09/8-Jain-R.-Bassier-I.-Budlender-J.-_-Zizzamia-R.-2020-The-labour-market-and-poverty-impacts-of-COVID-19-in-South-Africa-An-update-with-NIDS-CRAM-Wave-2.pdf) | [Code](/files/w2.zip) | [Op-Ed](https://www.dailymaverick.co.za/article/2020-09-30-covid-19-job-losses-persist-but-grants-cushion-the-blow/)]   
-[[Wave 3 working paper](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cramsurvey.org/wp-content/uploads/2021/02/2.-Bassier-I.-Budlender-J.-Zizzamia-R.-2021-The-labour-market-impact-of-COVID-19-.pdf) | [Code](/files/w3.zip)]   
+[[Wave 1 working paper](https://cramsurvey.org/wp-content/uploads/2020/07/Jain-The-labour-market-and-poverty-impacts.pdf) | [Code](/files/w1.zip) | [Op-Ed](https://www.businesslive.co.za/fm/features/2020-07-15-distress-grant-misses-the-mark/)]  
+[[Wave 2 working paper](https://cramsurvey.org/wp-content/uploads/2020/09/8-Jain-R.-Bassier-I.-Budlender-J.-_-Zizzamia-R.-2020-The-labour-market-and-poverty-impacts-of-COVID-19-in-South-Africa-An-update-with-NIDS-CRAM-Wave-2.pdf) | [Code](/files/w2.zip) | [Op-Ed](https://www.dailymaverick.co.za/article/2020-09-30-covid-19-job-losses-persist-but-grants-cushion-the-blow/)]   
+[[Wave 3 working paper](https://cramsurvey.org/wp-content/uploads/2021/02/2.-Bassier-I.-Budlender-J.-Zizzamia-R.-2021-The-labour-market-impact-of-COVID-19-.pdf) | [Code](/files/w3.zip)]   
 Media: [The Economist](https://www.economist.com/middle-east-and-africa/2020/07/18/covid-19-has-throttled-south-africas-economy), [Mail and Guardian](https://mg.co.za/news/2020-07-15-three-million-jobs-lost-and-hunger-surging-amid-covid-19-crisis-survey/)
 </small>
 <details>
@@ -89,7 +89,7 @@ The development path of Sub-Saharan Africa (SSA) over the past two decades has b
 with Ihsaan Bassier, Joshua Budlender, Murray Leibbrandt and Vimal Ranchhod   
 *World Development,* 2021 (Vol. 139)   
 <small>
-[[Policy report](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://covid19economicideas.org/wp-content/uploads/2020/04/Special-Covid-19-Grant-Proposal-full-version-17-April-2020.pdf) | [Code](/files/ReplicationPackage.zip) | [Podcast](https://www.csae.ox.ac.uk/locked-down-and-locked-out-repurposing-social-assistance-in-south-africa) | [Op-ed](https://theconversation.com/south-africa-can-and-should-top-up-child-support-grants-to-avoid-a-humanitarian-crisis-135222)]    
+[[Policy report](https://covid19economicideas.org/wp-content/uploads/2020/04/Special-Covid-19-Grant-Proposal-full-version-17-April-2020.pdf) | [Code](/files/ReplicationPackage.zip) | [Podcast](https://www.csae.ox.ac.uk/locked-down-and-locked-out-repurposing-social-assistance-in-south-africa) | [Op-ed](https://theconversation.com/south-africa-can-and-should-top-up-child-support-grants-to-avoid-a-humanitarian-crisis-135222)]    
 Media: [Financial Times](https://www.ft.com/content/85ad034e-146d-4e8f-a3ad-f8d237346d6d)
 </small>
 <details>
@@ -105,7 +105,7 @@ The COVID-19 pandemic presents a particular challenge to countries with high lev
 <small> Earlier version awarded the Papiya Ghosh Memorial Prize for the best MPhil Thesis in Development Studies at Oxford University </small>
 <details>
   <summary>Abstract</summary>
-Unemployment is a key determinant of poverty in South Africa and labour market inequalities reflect deep-rooted socio-economic inequalities. In a context of high rates of poverty and unemployment, we would expect a job loss to be associated with a decline in wellbeing. Using nationally representative panel data and original qualitative data collected in Cape Town, I find that, on average, this hypothesis holds. However, this aggregate effect conceals heterogeneities in the relationship between labour market transitions and wellbeing which are of special analytic interest. In particular, this study focuses on those cases which go against the grain of the overall labour market-wellbeing nexus – that is, cases in which black, urban youths turn down or quit wage work. An analysis of these examples helps illuminate how disadvantaged workers face non-negligible disincentives to certain forms of low-skill employment and reveals the circumstances under which these disincentives may outweigh the disincentives to unemployment. To aid this investigation, I develop a model which analyses the welfare effect of job losses as being jointly determined by the strength of outside options and disincentives to work. Using qualitative data, I provide evidence in support of this model and show that, under certain circumstances, transitioning out of employment.
+Unemployment is a key determinant of poverty in South Africa and labour market inequalities reflect deep-rooted socio-economic inequalities. In a context of high rates of poverty and unemployment, we would expect a job loss to be associated with a decline in wellbeing. Using nationally representative panel data and original qualitative data collected in Cape Town, I find that, on average, this hypothesis holds. However, this aggregate effect conceals heterogeneities in the relationship between labour market transitions and wellbeing which are of special analytic interest. In particular, this study focusses on those cases which go against the grain of the overall labour market-wellbeing nexus – that is, cases in which black, urban youths turn down or quit wage work. An analysis of these examples helps illuminate how disadvantaged workers face non-negligible disincentives to certain forms of low-skill employment and reveals the circumstances under which these disincentives may outweigh the disincentives to unemployment. To aid this investigation, I develop a model which analyses the welfare effect of job losses as being jointly determined by the strength of outside options and disincentives to work. Using qualitative data, I provide evidence in support of this model and show that, under certain circumstances, transitioning out of employment will be the welfare optimising choice for workers: Younger workers with no dependants and with alternative sources of support can be said to have stronger outside options, and are especially likely to turn down or quit low-quality jobs. Older workers, with dependants and without alternative sources of support, are more likely to accept and persist in low-quality jobs. This study argues that understanding the complexity of the incentives that workers face and which inform labour market choices will be indispensable in effectively designing policies which aim to reduce inequalities in labour markets – in South Africa and beyond.
 </details>
 <p> </p>
 

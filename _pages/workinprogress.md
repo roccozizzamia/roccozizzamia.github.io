@@ -11,18 +11,19 @@ Grants: [J-PAL King Climate Action Initiative](https://www.povertyactionlab.org/
 <small> [[BL survey instrument](/files/AA_BL.pdf)] </small>
 <details>
   <summary>Details</summary>
-The project evaluates a targeted risk-informed early action pilot in response to floods in Bangladesh, testing efficacy of early warning messaging, timing of cash transfers, and data-driven innovations in targeting approaches. Through a randomized evaluation, we will target approximately 20,000 households, with some households receiving unconditional cash transfers ahead of or after a flood event. We will address two critical knowledge gaps that impede adopting early actions at scale. First, they will explore the optimal timing for delivering assistance: they will evaluate when best to act by examining how households use assistance before, during, or after a disaster. Second, we will evaluate the accuracy of data-driven approaches in targeting the most vulnerable households and the trade-offs thus incurred vis-a-vis timing. 
+The project evaluates a targeted risk-informed early action pilot in response to floods in Bangladesh, testing the efficacy of early warning messaging, timing of cash transfers, and data-driven innovations in targeting approaches. Through a randomized evaluation, we will target approximately 20,000 households, with some households receiving unconditional cash transfers ahead of or after a flood event. We will address two critical knowledge gaps that impede adopting early actions at scale. First, we will explore the optimal timing for delivering assistance: we will evaluate when best to act by examining how households use assistance before, during, or after a disaster. Second, we will evaluate the accuracy of data-driven approaches in targeting the most vulnerable households and the trade-offs thus incurred vis-a-vis timing. 
 </details>
 <p> </p>
 <br>
 
 
 <p> </p>
-**Learning Traps? Experimental Evidence on Threshold Dynamics in Education** \
-with Noam Angrist and Claire Cullen 
+**Learning Traps? Experimental Evidence on Threshold Dynamics in Foundational Learning** \
+with Noam Angrist and Claire Cullen \
+<small> [[AEA Trial Registry](https://www.socialscienceregistry.org/trials/19944)] </small>
 <details>
   <summary>Details</summary>
-Learning gains from educational interventions in low-income countries often fade after the intervention ends. This project asks whether fade-out reflects intrinsic differences in ability, or whether there are thresholds in foundational skills beyond which learning becomes self-sustaining — a learning analogue to the poverty trap. Working with the ConnectEd phone-tutoring programme in the Philippines, we randomise 3,500 grade 3–5 students into a control group and four treatment arms tutored to progressively higher numeracy operations (addition through division). Because randomisation varies the target skill level a child is tutored to — not merely whether they are tutored — the design generates exogenous variation in the level of mastery a child reaches while holding ability constant. Weekly assessments track progression through operation levels, and follow-up assessments measure whether gains persist, providing an experimental test of whether the persistence of learning gains is continuous in the level attained or exhibits the discontinuities that a threshold model predicts.
+Learning gains from educational interventions in low-income countries often fade after the intervention ends. This project asks whether fade-out reflects intrinsic differences in ability, or whether there are thresholds in foundational skills beyond which learning becomes self-sustaining — a learning analogue to the poverty trap. Working with the ConnectEd phone-tutoring programme in the Philippines, we randomise 3,200 grade 3–5 students into a control group and three treatment arms in which tutoring stops at progressively higher numeracy levels (subtraction without borrowing, subtraction with borrowing, and division with remainder). Because randomisation varies the target skill level a child is tutored to — not merely whether they are tutored — the design generates exogenous variation in the level of mastery a child reaches while holding ability constant. Weekly assessments track progression through operation levels, and follow-up assessments measure whether gains persist, providing an experimental test of whether the persistence of learning gains is continuous in the level attained or exhibits the discontinuities that a threshold model predicts.
 </details>
 <p> </p>
 <br>
@@ -42,7 +43,7 @@ This project estimates the labour market returns to schooling across Africa, usi
 **Climate Resilient Education Systems: Cash transfers and remote learning during drought**  
 with Noam Angrist, Stefan Dercon and Nithya Srinivasan  
 Grants: [Strategic Impact Evaluation and Learning, IPA](https://poverty-action.org/siel)  
-<small> [[BL survey instrument](/files/CREST_BL.pdf)]</small>   
+<small> [[BL survey instrument](/files/CREST_BL.pdf) | [ML survey instrument](/files/CREST_ML.pdf) | [EL survey instrument](/files/CREST_EL.pdf) | [AEA Trial Registry](https://www.socialscienceregistry.org/trials/18353)]</small>   
 <details> <summary>Details</summary> This project evaluates a climate risk–triggered package of interventions designed to protect children’s learning during droughts in northern Kenya. Leveraging a parametric insurance payout based on vegetation and rainfall indices, the intervention delivers unconditional cash transfers and remote education support to households with school-age children at risk of drought-induced learning disruptions. Using a randomized controlled trial across 210 primary schools in Garissa and Tana River counties, the study tests the effects of remote learning alone and in combination with cash transfers, alongside a nested household-level experiment evaluating one-on-one phone-based tutoring in numeracy. The evaluation examines whether timely, shock-responsive support can mitigate learning losses during climate shocks, and how combining income support with targeted educational interventions affects learning outcomes and household well-being. 
 </details> <p>  
 </p> <br> 
